@@ -1,3 +1,5 @@
+#+PUBLIC: true
+
 * Topic
 :PROPERTIES:
 :heading: true
