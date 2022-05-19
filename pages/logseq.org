@@ -1,4 +1,3 @@
-*
 * Syntax
 :PROPERTIES:
 :heading: true
@@ -14,7 +13,7 @@
 :PROPERTIES:
 :id: 62794aef-0716-46dd-8ec4-735dda564263
 :END:
-** table
+** tables
 :PROPERTIES:
 :collapsed: true
 :END:
@@ -32,13 +31,16 @@
 *** using [[Dropbox]]
 :PROPERTIES:
 :id: 62794aef-22ed-4626-9193-6291e754c1e7
-:collapsed: true
 :END:
 **** set up Dropbox: {{embed ((628620cb-6350-49f8-8eeb-2f625e866f58)) }}
 :PROPERTIES:
 :id: 6286214c-4d37-45b0-86bd-d4ea137909ad
+:collapsed: true
 :END:
 **** set up =logseq=
+:PROPERTIES:
+:collapsed: true
+:END:
 ***** TODO install =logseq=
 ***** TODO click =Add new graph=
 :PROPERTIES:
@@ -50,9 +52,15 @@
 ***** TODO Search for the page =Methods in linguistics= and check whether you can see it.
 ***** TODO If it works, great! Please add your name to the final section =Dropbox sync with logseq= so I know that it's working for you.
 ***** TODO If it doesn't work for you, don't worry. Please post a brief description of the problem your facing on our Moodle forum. We will either sort it out using the forum or I'll help you during our session next week then.
-*** using Google Drive
+*** using [[Google Drive]]
 :PROPERTIES:
-:collapsed: true
 :END:
-
-We tried in the ((62752f67-115b-45b8-a0f6-a744414a28dc)) session, but it did't work.
+We tried in the [[02 - Taking notes]] session, but it did't work.
+* Diagrams
+:PROPERTIES:
+:heading: true
+:END:
+** You can start drawing diagrams by typing =/Draw=
+** [[draws/2022-05-19-22-27-24.excalidraw]]
+**
+**
