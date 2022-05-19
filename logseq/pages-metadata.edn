@@ -1,7 +1,4 @@
-[{:block/name "03 - research questions and hypotheses",
-  :block/created-at 1652976909766,
-  :block/updated-at 1652982124985}
- {:block/name "62861e92-1e71-492a-9a0c-6aced3187e36",
+[{:block/name "62861e92-1e71-492a-9a0c-6aced3187e36",
   :block/created-at 1652966953514,
   :block/updated-at 1652966953514}
  {:block/name "628620cb-6350-49f8-8eeb-2f625e866f58",
@@ -13,15 +10,9 @@
  {:block/name "accent",
   :block/created-at 1651756252872,
   :block/updated-at 1651756252872}
- {:block/name "amiciziamj",
-  :block/created-at 1651757056164,
-  :block/updated-at 1651757056164}
  {:block/name "b",
   :block/created-at 1651143841458,
   :block/updated-at 1651143841458}
- {:block/name "ba linguistics",
-  :block/created-at 1651756252705,
-  :block/updated-at 1651756252705}
  {:block/name "ba thesis",
   :block/created-at 1651756252874,
   :block/updated-at 1651756252874}
@@ -40,9 +31,6 @@
  {:block/name "cognitive linguistics",
   :block/created-at 1651756252875,
   :block/updated-at 1651756252875}
- {:block/name "contents",
-  :block/created-at 1652967947027,
-  :block/updated-at 1652967947027}
  {:block/name "corpus linguistics",
   :block/created-at 1651756252840,
   :block/updated-at 1651756252840}
@@ -64,18 +52,12 @@
  {:block/name "done",
   :block/created-at 1651143841458,
   :block/updated-at 1651143841458}
- {:block/name "dropbox",
-  :block/created-at 1652976909766,
-  :block/updated-at 1652976909766}
  {:block/name "embodiment",
   :block/created-at 1651756252877,
   :block/updated-at 1651756252877}
- {:block/name "englerc",
-  :block/created-at 1652976909765,
-  :block/updated-at 1652976909765}
- {:block/name "favorites",
-  :block/created-at 1652967947026,
-  :block/updated-at 1652967947026}
+ {:block/name "file:img",
+  :block/created-at 1652985028915,
+  :block/updated-at 1652985028915}
  {:block/name "file:img/logseq-add-new-graph.png",
   :block/created-at 1652976909766,
   :block/updated-at 1652976909766}
@@ -88,12 +70,6 @@
  {:block/name "in-progress",
   :block/created-at 1651143841458,
   :block/updated-at 1651143841458}
- {:block/name "kraftk",
-  :block/created-at 1651757306551,
-  :block/updated-at 1651757306551}
- {:block/name "kumpfmuellerj",
-  :block/created-at 1651757264699,
-  :block/updated-at 1651757264699}
  {:block/name "later",
   :block/created-at 1651143841458,
   :block/updated-at 1651143841458}
@@ -106,12 +82,6 @@
  {:block/name "linguistic variation",
   :block/created-at 1651756252844,
   :block/updated-at 1651756252844}
- {:block/name "litosseliti2010researchmethods",
-  :block/created-at 1652976909765,
-  :block/updated-at 1652976909765}
- {:block/name "logseq",
-  :block/created-at 1651756252883,
-  :block/updated-at 1651847347731}
  {:block/name "may 10th, 2022",
   :block/created-at 1652162414616,
   :block/updated-at 1652162414616}
@@ -133,18 +103,9 @@
  {:block/name "may 19th, 2022",
   :block/created-at 1652966954959,
   :block/updated-at 1652966954959}
- {:block/name "may 9th, 2022",
-  :block/created-at 1652054400000,
-  :block/updated-at 1652054400000}
  {:block/name "memes",
   :block/created-at 1651756252836,
   :block/updated-at 1651756252836}
- {:block/name "methods in linguistics",
-  :block/created-at 1651756252737,
-  :block/updated-at 1652116926161}
- {:block/name "modulprüfung",
-  :block/created-at 1651756252881,
-  :block/updated-at 1651756252881}
  {:block/name "modulprüfung wp 13",
   :block/created-at 1651756252879,
   :block/updated-at 1651756252879}
@@ -181,15 +142,12 @@
  {:block/name "qualitative approach",
   :block/created-at 1651756252835,
   :block/updated-at 1651756252835}
- {:block/name "quantitative approaches|quantitative methods",
-  :block/created-at 1652976909766,
-  :block/updated-at 1652976909766}
  {:block/name "quantitative methods",
   :block/created-at 1652976909766,
   :block/updated-at 1652976909766}
- {:block/name "rasinger2010quantitativemethods",
-  :block/created-at 1652976909766,
-  :block/updated-at 1652976909766}
+ {:block/name "readme",
+  :block/created-at 1652984706837,
+  :block/updated-at 1652984706837}
  {:block/name "reddit",
   :block/created-at 1651756252843,
   :block/updated-at 1651756252843}
@@ -206,20 +164,14 @@
   :block/created-at 1652976909766,
   :block/updated-at 1652976909766}
  {:block/name "research questions and hypotheses",
-  :block/created-at 1652976909766,
-  :block/updated-at 1652976909766}
- {:block/name "rotters",
-  :block/created-at 1652976909766,
-  :block/updated-at 1652976909766}
+  :block/created-at 1652984730282,
+  :block/updated-at 1652984730282}
  {:block/name "sociolect",
   :block/created-at 1652976909766,
   :block/updated-at 1652976909766}
  {:block/name "sociolinguistics",
   :block/created-at 1651756252875,
   :block/updated-at 1651756252875}
- {:block/name "sunderland2010researchquestions",
-  :block/created-at 1652976909766,
-  :block/updated-at 1652976909766}
  {:block/name "term paper",
   :block/created-at 1651756252856,
   :block/updated-at 1651756252856}
@@ -238,9 +190,6 @@
  {:block/name "usage context",
   :block/created-at 1651756252845,
   :block/updated-at 1651756252845}
- {:block/name "valentin weber",
-  :block/created-at 1652976909766,
-  :block/updated-at 1652976909766}
  {:block/name "validity",
   :block/created-at 1652976909766,
   :block/updated-at 1652976909766}
@@ -251,11 +200,5 @@
   :block/created-at 1651143841458,
   :block/updated-at 1651143841458}
  {:block/name "waiting",
-  :block/created-at 1651143841458,
-  :block/updated-at 1651143841458}
- {:block/name "wuerschingerq",
-  :block/created-at 1651756252737,
-  :block/updated-at 1651757233310}
- {:block/name "zhiltsovae",
-  :block/created-at 1651757872817, 
-  :block/updated-at 1652967780382}]
+  :block/created-at 1651143841458, 
+  :block/updated-at 1651143841458}]
