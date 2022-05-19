@@ -9,7 +9,7 @@
  ;; Preferred workflow style.
  ;; Value is either ":now" for NOW/LATER style,
  ;; or ":todo" for TODO/DOING style.
- :preferred-workflow :now
+ :preferred-workflow :todo
 
  ;; The app will ignore those directories or files.
  ;; E.g. "/archived" "/test.md"
@@ -52,7 +52,7 @@
  ;; If `:sidebar` is not set, sidebar will be hidden
  ;; Example:
  ;; 1. Setup page "Changelog" as home page and "Contents" in sidebar
- ;; :default-home {:page "Changelog", :sidebar "Contents"}
+  :default-home {:page "Methods in linguistics", :sidebar "Contents"}
  ;; 2. Setup page "Jun 3rd, 2021" as home page without sidebar
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Setup page "home" as home page with multiple pages in sidebar
