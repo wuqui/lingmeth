@@ -1,4 +1,3 @@
-* #participant
 * background and assessment
 ** [[BA linguistics]], [[Digital Humanities]]
 ** [[Modulprüfung WP 13]]

@@ -1,10 +1,12 @@
-public:: true
-
-* syntax
+*
+* Syntax
 :PROPERTIES:
 :heading: true
 :END:
 ** font markup
+:PROPERTIES:
+:collapsed: true
+:END:
 *** /italics/
 *** *bold*
 *** =code=
@@ -13,37 +15,42 @@ public:: true
 :id: 62794aef-0716-46dd-8ec4-735dda564263
 :END:
 ** table
+:PROPERTIES:
+:collapsed: true
+:END:
 
 | x | y |
 | 1 | 2 |
 | 3 | 4 |
-* synchronise =logseq= data
+* Accessing =logseq= data
 :PROPERTIES:
 :id: 62794aef-b922-4005-b58d-ee463cb6dbf0
-:collapsed: true
+:heading: true
 :END:
-** using [[Dropbox]]
+** viewing: https://wuqui.github.io/lingmeth/public
+** editing
+*** using [[Dropbox]]
 :PROPERTIES:
 :id: 62794aef-22ed-4626-9193-6291e754c1e7
 :collapsed: true
 :END:
-*** set up Dropbox: {{embed ((628620cb-6350-49f8-8eeb-2f625e866f58)) }}
+**** set up Dropbox: {{embed ((628620cb-6350-49f8-8eeb-2f625e866f58)) }}
 :PROPERTIES:
 :id: 6286214c-4d37-45b0-86bd-d4ea137909ad
 :END:
-*** set up =logseq=
-**** TODO install =logseq=
-**** TODO click =Add new graph=
+**** set up =logseq=
+***** TODO install =logseq=
+***** TODO click =Add new graph=
 :PROPERTIES:
 :collapsed: true
 :END:
 
 [[../assets/logseq-add-new-graph_1652957720937_0.png]]
-**** TODO Select the =lingmeth= folder in your Dropbox folder.
-**** TODO Search for the page =Methods in linguistics= and check whether you can see it.
-**** TODO If it works, great! Please add your name to the final section =Dropbox sync with logseq= so I know that it's working for you.
-**** TODO If it doesn't work for you, don't worry. Please post a brief description of the problem your facing on our Moodle forum. We will either sort it out using the forum or I'll help you during our session next week then.
-** using Google Drive
+***** TODO Select the =lingmeth= folder in your Dropbox folder.
+***** TODO Search for the page =Methods in linguistics= and check whether you can see it.
+***** TODO If it works, great! Please add your name to the final section =Dropbox sync with logseq= so I know that it's working for you.
+***** TODO If it doesn't work for you, don't worry. Please post a brief description of the problem your facing on our Moodle forum. We will either sort it out using the forum or I'll help you during our session next week then.
+*** using Google Drive
 :PROPERTIES:
 :collapsed: true
 :END:
