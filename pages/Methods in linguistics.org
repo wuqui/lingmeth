@@ -5,26 +5,27 @@
 :id: 62861e92-1e71-492a-9a0c-6aced3187e36
 :heading: true
 :END:
-| Nr |  Date | Topic                             |
-|----+-------+-----------------------------------|
-|  1 | 28.04 | Organisation and introduction     |
-|  2 | 05.05 | Taking notes                      |
-|    | 12.05 |                                   |
-|  3 | 19.05 | [[03 - Research questions and hypotheses]] |
-|    |       |                                   |
-|  4 | 02.06 | Reference management              |
-|  5 | 09.06 | Self-management                   |
-|  6 | 16.06 | Reading and writing               |
-|  7 | 23.06 | Presenting                        |
-|  8 | 30.06 | Data and methods                  |
-|  9 | 07.07 | Data and methods                  |
-| 10 | 14.07 | Generating and presenting results |
-| 11 | 21.07 | Presentations                     |
-| 12 | 28.07 | Presentations                     |
+[[sessions]] 
+| Nr |  Date | Topic                              |
+|----+-------+------------------------------------|
+|  1 | 28.04 | [[01 - Organisation and introduction][Organisation and introduction]]     |
+|  2 | 05.05 | [[02 - Taking notes][Taking notes]]                      |
+|    | 12.05 |                                    |
+|  3 | 19.05 | [[03 - Research questions and hypotheses][Research questions and hypotheses]] |
+|    | 26.05 |                                    |
+|  4 | 02.06 | Reference management               |
+|  5 | 09.06 | Self-management                    |
+|  6 | 16.06 | Reading and writing                |
+|  7 | 23.06 | Presenting                         |
+|  8 | 30.06 | Data and methods                   |
+|  9 | 07.07 | Data and methods                   |
+| 10 | 14.07 | Generating and presenting results  |
+| 11 | 21.07 | Presentations                      |
+| 12 | 28.07 | Presentations                      |
 * Participants
 :PROPERTIES:
-:collapsed: true
 :heading: true
+:id: 628693dd-5caf-4b27-b9ca-342201ebbaa2
 :END:
 ** Kate Zhiltsova [[ZhiltsovaE]]
 ** Valentin Weber [[Valentin Weber]]
