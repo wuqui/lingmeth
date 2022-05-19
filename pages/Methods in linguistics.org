@@ -70,7 +70,6 @@
 * Motivation and expectations
 :PROPERTIES:
 :heading: true
-:collapsed: true
 :END:
 
 Please quickly introduce yourself.
