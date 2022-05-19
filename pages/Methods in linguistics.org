@@ -68,9 +68,18 @@
 *** [[embodiment]]
 ** Maria Julia Amcizia [[AmiciziaMJ]]
 ** Sara Rotter [[RotterS]]
+* Moodle
+:PROPERTIES:
+:id: 6286a16e-1674-4a23-bc6c-ad9e9d3fc9cb
+:heading: true
+:END:
+
+| Title    | Würschinger / 2022 / Methods in linguistics |
+| Password | Wue2022Methods                              |
 * Motivation and expectations
 :PROPERTIES:
 :heading: true
+:collapsed: true
 :END:
 
 Please quickly introduce yourself.
