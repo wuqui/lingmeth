@@ -1,0 +1,7 @@
+* org-mode syntax
+** font markup
+*** /italics/
+*** *bold*
+*** =code=
+*** +strikethrough+
+** add something more

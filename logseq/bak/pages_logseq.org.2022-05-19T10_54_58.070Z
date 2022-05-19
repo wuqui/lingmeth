@@ -1,0 +1,25 @@
+* syntax
+** font markup
+*** /italics/
+*** *bold*
+*** =code=
+*** +strikethrough+
+* synchronise =logseq= data
+** using [[Dropbox]]
+*** set up Dropbox
+*** set up =logseq=
+**** TODO install =logseq=
+**** TODO click =Add new graph=
+
+  [[file:img/logseq-add-new-graph.png]]
+
+- [ ] Select the =lingmeth= folder in your Dropbox folder.
+- [ ] Search for the page =Methods in linguistics= and check whether you can see it.
+- [ ] If it works, great! Please add your name to the final section =Dropbox sync with logseq= so I know that it's working for you.
+- [ ] If it doesn't work for you, don't worry. Please post a brief description of the problem your facing on our Moodle forum. We will either sort it out using the forum or I'll help you during our session next week then.
+** using Google Drive
+:PROPERTIES:
+:collapsed: true
+:END:
+
+We tried in the ((62752f67-115b-45b8-a0f6-a744414a28dc)) session, but it did't work.
