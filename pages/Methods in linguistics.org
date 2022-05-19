@@ -96,5 +96,7 @@ Please quickly introduce yourself.
 :END:
 ** [[Modulprüfung]]
 ** [[Thesenpapier]]
+* [[bibliography][Bibliography]]
+:PROPERTIES:
+:heading: true
 :END:
-** [[Modulprüfung]]
