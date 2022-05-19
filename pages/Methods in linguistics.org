@@ -92,5 +92,9 @@ Please quickly introduce yourself.
 * Assessment
 :PROPERTIES:
 :heading: true
+:collapsed: true
+:END:
+** [[Modulprüfung]]
+** [[Thesenpapier]]
 :END:
 ** [[Modulprüfung]]
