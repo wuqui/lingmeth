@@ -23,6 +23,7 @@
 | 3 | 4 |
 * Accessing =logseq= data
 :PROPERTIES:
+:collapsed: true
 :id: 62794aef-b922-4005-b58d-ee463cb6dbf0
 :heading: true
 :END:
@@ -55,6 +56,7 @@ We tried in the [[02 - Taking notes]] session, but it did't work.
 * Queries
 :PROPERTIES:
 :heading: true
+:collapsed: true
 :END:
 ** show all pages linking to a specific page
 *** {{query [[corpus linguistics]] }}
