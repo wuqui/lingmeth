@@ -38,16 +38,12 @@
 :collapsed: true
 :END:
 **** set up =logseq=
-:PROPERTIES:
-:collapsed: true
-:END:
 ***** TODO install =logseq=
 ***** TODO click =Add new graph=
 :PROPERTIES:
-:collapsed: true
 :END:
 
-[[../assets/logseq-add-new-graph_1652957720937_0.png]]
+[[../assets/logseq-add-new-graph_1653064250630_0.png]]
 ***** TODO Select the =lingmeth= folder in your Dropbox folder.
 ***** TODO Search for the page =Methods in linguistics= and check whether you can see it.
 ***** TODO If it works, great! Please add your name to the final section =Dropbox sync with logseq= so I know that it's working for you.
@@ -56,11 +52,25 @@
 :PROPERTIES:
 :END:
 We tried in the [[02 - Taking notes]] session, but it did't work.
+* Queries
+:PROPERTIES:
+:heading: true
+:END:
+** show all pages linking to a specific page
+*** {{query [[corpus linguistics]] }}
+:PROPERTIES:
+:query-table: false
+:END:
+** show all pages that link to both selected pages
+*** {{query (and [[accent]] [[sociolinguistics]] ) }}
+**
 * Diagrams
 :PROPERTIES:
 :heading: true
 :END:
 ** You can start drawing diagrams by typing =/Draw=
-** [[draws/2022-05-19-22-27-24.excalidraw]]
-**
+** This is using the excellent https://excalidraw.com/ tool
+*** [[draws/2022-05-19-22-27-24.excalidraw]]
+** And you can export images as =png= files:
+*** [[../assets/image_1652992601744_0.png]]
 **
