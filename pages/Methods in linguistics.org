@@ -6,22 +6,22 @@
 :heading: true
 :END:
 [[sessions]] 
-| Nr |  Date | Topic                              |
-|----+-------+------------------------------------|
+| Nr |  Date | Topic                             |
+|----+-------+-----------------------------------|
 |  1 | 28.04 | [[01 - Organisation and introduction][Organisation and introduction]]     |
 |  2 | 05.05 | [[02 - Taking notes][Taking notes]]                      |
-|    | 12.05 |                                    |
+|    | 12.05 |                                   |
 |  3 | 19.05 | [[03 - Research questions and hypotheses][Research questions and hypotheses]] |
-|    | 26.05 |                                    |
-|  4 | 02.06 | Reference management               |
-|  5 | 09.06 | Self-management                    |
-|  6 | 16.06 | Reading and writing                |
-|  7 | 23.06 | Presenting                         |
-|  8 | 30.06 | Data and methods                   |
-|  9 | 07.07 | Data and methods                   |
-| 10 | 14.07 | Generating and presenting results  |
-| 11 | 21.07 | Presentations                      |
-| 12 | 28.07 | Presentations                      |
+|    | 26.05 |                                   |
+|  4 | 02.06 | Reference management              |
+|  5 | 09.06 | Self-management                   |
+|  6 | 16.06 | Reading and writing               |
+|  7 | 23.06 | Presenting                        |
+|  8 | 30.06 | Data and methods                  |
+|  9 | 07.07 | Data and methods                  |
+| 10 | 14.07 | Generating and presenting results |
+| 11 | 21.07 | Presentations                     |
+| 12 | 28.07 | Presentations                     |
 * Participants
 :PROPERTIES:
 :heading: true
@@ -76,6 +76,7 @@
 
 | Title    | Würschinger / 2022 / Methods in linguistics |
 | Password | Wue2022Methods                              |
+* Course description
 * Motivation and expectations
 :PROPERTIES:
 :heading: true

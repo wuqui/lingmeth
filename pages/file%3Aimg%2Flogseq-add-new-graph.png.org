@@ -1,2 +1,0 @@
-* #+title: file:img/logseq-add-new-graph.png
-*
