@@ -187,7 +187,7 @@
 
  ;; hide specific properties for blocks
  ;; E.g. #{:created-at :updated-at}
- ;; :block-hidden-properties #{}
+  :block-hidden-properties #{:beamer-env :beamer-act :beamer-opt}
 
  ;; logbook setup
  ;; :logbook/settings
