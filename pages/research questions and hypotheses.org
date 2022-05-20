@@ -1,9 +1,9 @@
 #+PUBLIC: true
 
-* Topic
+* [[topic]]
 :PROPERTIES:
-:heading: true
 :id: 62862ae8-8f4b-481e-8b27-f38553eb1f35
+:heading: true
 :END:
 ** What is a topic?
 :PROPERTIES:
@@ -23,8 +23,9 @@
 *** interesting and doable
 *** is based on previous knowledge and/or observations
 *** allows for a number of research questions
-* Title
+* [[title]]
 :PROPERTIES:
+:id: 6287cf79-790a-4600-baee-9a8439075e62
 :heading: true
 :END:
 ** is the business card of your paper/thesis

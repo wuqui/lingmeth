@@ -1,6 +1,6 @@
 [{:block/name "01 - organisation and introduction",
   :block/created-at 1652990183364,
-  :block/updated-at 1652990187630}
+  :block/updated-at 1653067035082}
  {:block/name "02 - taking notes",
   :block/created-at 1652990000105,
   :block/updated-at 1652990050041}
@@ -13,6 +13,9 @@
  {:block/name "628620cb-6350-49f8-8eeb-2f625e866f58",
   :block/created-at 1652966954369,
   :block/updated-at 1652966954369}
+ {:block/name "\\begin{adjustbox}{max totalheight=.8\\textheight",
+  :block/created-at 1653066937450,
+  :block/updated-at 1653066937450}
  {:block/name "a",
   :block/created-at 1651143841458,
   :block/updated-at 1651143841458}
@@ -43,6 +46,9 @@
  {:block/name "card",
   :block/created-at 1651143841458,
   :block/updated-at 1651143841458}
+ {:block/name "center}",
+  :block/created-at 1653066937451,
+  :block/updated-at 1653066937451}
  {:block/name "contents",
   :block/created-at 1652985514152,
   :block/updated-at 1652991216044}
@@ -67,9 +73,6 @@
  {:block/name "done",
   :block/created-at 1651143841458,
   :block/updated-at 1651143841458}
- {:block/name "draws/2022-05-19-22-27-24.excalidraw",
-  :block/created-at 1653065793232,
-  :block/updated-at 1653065793232}
  {:block/name "dropbox",
   :block/created-at 1652985327469,
   :block/updated-at 1652991758898}
@@ -82,9 +85,36 @@
  {:block/name "favorites",
   :block/created-at 1652985514152,
   :block/updated-at 1652985514152}
- {:block/name "file:img/logseq-add-new-graph/png",
-  :block/created-at 1652985327799,
-  :block/updated-at 1652985327799}
+ {:block/name "file:img/bad-pie-chart.png",
+  :block/created-at 1653066937462,
+  :block/updated-at 1653066937462}
+ {:block/name "file:img/bad-presentation-slide.png",
+  :block/created-at 1653066937458,
+  :block/updated-at 1653066937458}
+ {:block/name "file:img/coca.png",
+  :block/created-at 1653066937461,
+  :block/updated-at 1653066937461}
+ {:block/name "file:img/gantt-chart.png",
+  :block/created-at 1653066937457,
+  :block/updated-at 1653066937457}
+ {:block/name "file:img/logseq-book-notes.png",
+  :block/created-at 1653066937454,
+  :block/updated-at 1653066937454}
+ {:block/name "file:img/oed.png",
+  :block/created-at 1653066937460,
+  :block/updated-at 1653066937460}
+ {:block/name "file:img/questionnaire.png",
+  :block/created-at 1653066937461,
+  :block/updated-at 1653066937461}
+ {:block/name "file:img/rq-and-hypos.png",
+  :block/created-at 1653066937455,
+  :block/updated-at 1653066937455}
+ {:block/name "file:img/writing-process.png",
+  :block/created-at 1653066937458,
+  :block/updated-at 1653066937458}
+ {:block/name "file:img/zotero.png",
+  :block/created-at 1653066937456,
+  :block/updated-at 1653066937456}
  {:block/name "gender",
   :block/created-at 1652976909765,
   :block/updated-at 1652976909765}
@@ -121,9 +151,6 @@
  {:block/name "logseq",
   :block/created-at 1652985327468,
   :block/updated-at 1653064251311}
- {:block/name "may 19th, 2022",
-  :block/created-at 1652966954959,
-  :block/updated-at 1652966954959}
  {:block/name "may 20th, 2022",
   :block/created-at 1653003977426,
   :block/updated-at 1653003977426}

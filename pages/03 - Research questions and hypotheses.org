@@ -2,10 +2,12 @@
 * Course schedule
 :PROPERTIES:
 :heading: true
-:collapsed: true
 :id: 628693dc-711e-4324-b3e5-c8d5e743ded2
 :END:
 ** {{embed ((62861e92-1e71-492a-9a0c-6aced3187e36))}}
+:PROPERTIES:
+:collapsed: true
+:END:
 * Taking notes using =logseq=
 :PROPERTIES:
 :heading: true

@@ -6,26 +6,27 @@
 :heading: true
 :END:
 [[sessions]] 
-| Nr |  Date | Topic                             |
-|----+-------+-----------------------------------|
-|  1 | 28.04 | [[01 - Organisation and introduction][Organisation and introduction]]     |
-|  2 | 05.05 | [[02 - Taking notes][Taking notes]]                      |
-|    | 12.05 |                                   |
-|  3 | 19.05 | [[03 - Research questions and hypotheses][Research questions and hypotheses]] |
-|    | 26.05 |                                   |
-|  4 | 02.06 | Reference management              |
-|  5 | 09.06 | Self-management                   |
-|  6 | 16.06 | Reading and writing               |
-|  7 | 23.06 | Presenting                        |
-|  8 | 30.06 | Data and methods                  |
-|  9 | 07.07 | Data and methods                  |
-| 10 | 14.07 | Generating and presenting results |
-| 11 | 21.07 | Presentations                     |
-| 12 | 28.07 | Presentations                     |
+| Nr |  Date | Topic                                  |
+|----+-------+----------------------------------------|
+|  1 | 28.04 | [[01 - Organisation and introduction][Organisation and introduction]]         |
+|  2 | 05.05 | [[02 - Taking notes][Taking notes]]                          |
+|    | 12.05 |                                        |
+|  3 | 19.05 | [[03 - Research questions and hypotheses][Research questions and hypotheses]]     |
+|    | 26.05 |                                        |
+|  4 | 02.06 | [[04 - Reference management][Reference management]]                  |
+|  5 | 09.06 | [[05 - Self-management][Self-management]]                   |
+|  6 | 16.06 | [[06 - Reading and writing][Reading and writing]]               |
+|  7 | 23.06 | [[07 - Presenting][Presenting]]                        |
+|  8 | 30.06 | [[08 - Data and methods][Data and methods]]                  |
+|  9 | 07.07 | [[09 - Data and methods][Data and methods]]                  |
+| 10 | 14.07 | [[10 - Generating and presenting results][Generating and presenting results]] |
+| 11 | 21.07 | [[11 - Presentations][Presentations]]                     |
+| 12 | 28.07 | [[12 - Presentations][Presentations]]                     |
 * Participants
 :PROPERTIES:
 :heading: true
 :id: 628693dd-5caf-4b27-b9ca-342201ebbaa2
+:collapsed: true
 :END:
 ** Kate Zhiltsova [[ZhiltsovaE]]
 ** Valentin Weber [[Valentin Weber]]
@@ -72,15 +73,41 @@
 :PROPERTIES:
 :id: 6286a16e-1674-4a23-bc6c-ad9e9d3fc9cb
 :heading: true
+:collapsed: true
 :END:
 
 | Title    | Würschinger / 2022 / Methods in linguistics |
 | Password | Wue2022Methods                              |
 * Course description
+:PROPERTIES:
+:heading: true
+:id: 6287d1a0-cc43-41a7-8e20-032314c1218e
+:END:
+** This course will guide you through the entire process of designing a research project in linguistics, from identifying a [[topic]] to presenting a research project proposal in written form (e.g. for a term paper, your BA thesis or Zulassungsarbeit).
+** You will be offered practical advice on:
+*** planning and organising your work
+*** identifying and narrowing a [[topic]]
+*** developing and refining [[research questions and hypotheses]]
+*** finding and managing background information and [[references][literature]]
+*** effective and sustainable [[note-taking]]
+*** referencing [[references][literature]] and avoiding plagiarism
+*** collecting and analysing [[data]] using various [[methods]] (e.g. [[corpus linguistics][corpora]], [[questionnaire][surveys]])
+*** reporting results and academic [[writing]]
+** For every topic, I will provide basic material and questions for discussion.
+** We will work on and discuss your project ideas, and you will have the chance to present your projects to get constructive feedback.
+** We will have weekly sessions in person during regular course time.
+* Course concept
+:PROPERTIES:
+:heading: true
+:id: 6287d242-c00e-4f2f-8ea0-66f3484a0f02
+:END:
+** open, workshop-like environment
+** input from me on selected topics
+** individual and group work on your projects
 * Motivation and expectations
 :PROPERTIES:
 :heading: true
-:collapsed: true
+:id: 6287d325-2847-41a8-ad0f-39fc279a63f9
 :END:
 
 Please quickly introduce yourself.
@@ -90,14 +117,20 @@ Please quickly introduce yourself.
   BA thesis, Zulassungsarbeit etc.; supervisor; deadline)
 ** TODO Which topic are you planning to write your paper about?
 ** TODO Which data and methods are you planning to use?
-* Assessment
+* Requirements
 :PROPERTIES:
 :heading: true
-:collapsed: true
+:id: 6287d6b6-5f49-4837-809e-5f35ee6e2356
 :END:
-** [[Modulprüfung]]
-** [[Thesenpapier]]
-* [[bibliography][Bibliography]]
+** TODO active attendance
+** TODO writing a research proposal ([[Thesenpapier]])
+** Assessment
+:PROPERTIES:
+:heading: true
+:END:
+*** [[Modulprüfung]]
+*** [[Thesenpapier]]
+* [[course bibliography]]
 :PROPERTIES:
 :heading: true
 :END:

@@ -1,192 +1,141 @@
+#+title: 01 - Organisation and introduction
+#+author: Quirin Würschinger
+#+date: [2022-04-28 Thu]
+#+subtitle: Methods in linguistics
+
+#+setupfile: ~/templates/org-beamer-pres.org
+#+latex_class_options: [handout]
+
 * Organisation
-** Registration
 :PROPERTIES:
-:BEAMER_ENV: frame
-:BEAMER_ACT: handout:0
+:heading: true
 :END:
 ** Course description
 :PROPERTIES:
-:BEAMER_ENV: frame
-:BEAMER_OPT: shrink=10
+:heading: true
+:collapsed: true
 :END:
-
-This course will guide you through the entire process of designing a research project in linguistics, from identifying a topic to presenting a research project proposal in written form (e.g. for a term paper, your BA thesis or Zulassungsarbeit).
-
-You will be offered practical advice on:
-
-- planning and organising your work
-- identifying and narrowing a topic
-- developing and refining research questions
-- finding and managing background information and literature
-- effective and sustainable note-taking
-- referencing literature and avoiding plagiarism
-- collecting and analysing data using various methods (e.g. corpora, surveys)
-- reporting results and academic writing
-
-For every topic, I will provide basic material and questions for discussion. We will work on and discuss your project ideas, and you will have the chance to present your projects to get constructive feedback.
-
-We will have weekly sessions in person during regular course time.
-
+*** {{embed ((6287d1a0-cc43-41a7-8e20-032314c1218e))}}
+:PROPERTIES:
+:beamer-opt: shrink=10
+:beamer-env: frame
+:collapsed: true
+:END:
 ** Course concept
 :PROPERTIES:
-:BEAMER_ENV: frame
+:heading: true
+:collapsed: true
 :END:
-
-- open, workshop-like environment
-- input from me on selected topics
-- individual and group work on your projects
-
+*** {{embed ((6287d242-c00e-4f2f-8ea0-66f3484a0f02))}}
+:PROPERTIES:
+:beamer-opt: shrink=10
+:beamer-env: frame
+:heading: true
+:END:
 ** Course schedule
 :PROPERTIES:
-:BEAMER_ENV: frame
+:heading: true
+:collapsed: true
 :END:
-
-#+latex: \begin{adjustbox}{max totalheight=.8\textheight, center}
-#+attr_latex: :center nil
-| Nr | Date   | Topic                             |
-|    | <l>    |                                   |
-|----+--------+-----------------------------------|
-|  1 | 28.04. | Organisation and introduction     |
-|  2 | 05.05. | Taking notes                      |
-|  3 | 12.05. | Research questions and hypotheses |
-|  4 | 19.05. | Reference management              |
-|    |        |                                   |
-|  5 | 02.06. | Self-management                   |
-|  6 | 09.06. | Reading and writing               |
-|  7 | 16.06. | Presenting                        |
-|  8 | 23.06. | Data and methods                  |
-|  9 | 30.06. | Data and methods                  |
-| 10 | 07.07. | Data and methods                  |
-| 11 | 14.07. | Generating and presenting results |
-| 12 | 21.07. | Presentations                     |
-| 13 | 28.07. | Presentations                     |
-#+latex: \end{adjustbox}
-
-** Requirements
-:PROPERTIES:
-:BEAMER_ENV: frame
-:END:
-
-- [ ] active attendance
-- [ ] writing a research proposal (Thesenpapier)
-  - about 3--5 pages
-  - contains
-    - title
-    - table of contents
-    - abstract
-    - data and methods
-    - bibliography
-
+*** {{embed ((628693dc-711e-4324-b3e5-c8d5e743ded2))}}
 ** Course materials
 :PROPERTIES:
-:BEAMER_ENV: frame
+:beamer-env: frame
+:heading: true
+:collapsed: true
 :END:
-
-We will use a collaborative =logseq= notes database.
-
-- I will include all course materials in this repository.
-- You will be able to add notes and materials, too.
-  - for individual projects
-  - for group work
+*** We will use a collaborative [[logseq]] notes database.
+**** I will include all course materials in this repository.
+**** You will be able to add notes and materials, too.
+***** for individual projects
+***** for group work
 * Motivations, goals, and expectations
+:PROPERTIES:
+:heading: true
+:END:
 ** Motivations, goals, and expectations
 :PROPERTIES:
-:BEAMER_ENV: frame
+:beamer-env: frame
+:heading: true
+:collapsed: true
 :END:
-
-Please quickly introduce yourself.
-
-- What is your *background*? (Study programme, previous experience etc.)
-- As part of which *module* are you takings this course?
-- What kind of a *project* are you going to work on (term paper, BA thesis, Zulassungsarbeit etc.; supervisor; deadline)
-- Which *topic* are you planning to write your paper about?
-- Which *data* and *methods* are you planning to use?
-
+*** {{embed ((6287d325-2847-41a8-ad0f-39fc279a63f9))}}
 ** Groups
 :PROPERTIES:
-:BEAMER_ENV: frame
+:beamer-env: frame
+:heading: true
+:collapsed: true
 :END:
-
-Group up with others who have similar interests.
-
-Find commonalities, brainstorm, and take notes about your goals for your project and this course.
-
+*** Group up with others who have similar interests.
+*** Find commonalities, brainstorm, and take notes about your goals for your project and this course.
 * Course overview
-** Taking notes
 :PROPERTIES:
-:BEAMER_ENV: frame
+:heading: true
 :END:
-
-#+caption: Using =logseq= for notes on paper and books.
-[[file:img/logseq-book-notes.png]]
-
-** Research questions and hypotheses
+** [[note-taking][Taking notes]]
 :PROPERTIES:
-:BEAMER_ENV: frame
+:heading: true
+:collapsed: true
 :END:
-
-[[file:img/RQ-and-hypos.png]]
-
-** Reference management
+*** Using [[logseq]] for notes on paper and books.
 :PROPERTIES:
-:BEAMER_ENV: frame
+:collapsed: true
 :END:
-
-[[file:img/zotero.png]]
-
-** Self-management
+[[file:../assets/logseq-book-notes.png]]
+** [[research questions and hypotheses]]
 :PROPERTIES:
-:BEAMER_ENV: frame
+:heading: true
+:collapsed: true
 :END:
-
-[[file:img/gantt-chart.png]]
-
-** Reading and writing
+*** [[file:../assets/RQ-and-hypos.png]]
+** [[references][Reference]] management
 :PROPERTIES:
-:BEAMER_ENV: frame
+:heading: true
+:collapsed: true
 :END:
-
-[[file:img/writing-process.png]]
-
-** Presenting
+*** [[file:../assets/zotero.png]]
+** [[self-management][Self-management]]
 :PROPERTIES:
-:BEAMER_ENV: frame
+:heading: true
+:collapsed: true
 :END:
-
-[[file:img/bad-presentation-slide.png]]
-
-** Data and methods
-*** Data and methods
+*** [[file:../assets/gantt-chart.png]]
+** [[reading]] and [[writing]] 
 :PROPERTIES:
-:BEAMER_ENV: fullframe
+:heading: true
+:collapsed: true
 :END:
-
-#+beamer: \subsectionpage
-
-*** Dictionaries
+*** [[file:../assets/writing-process.png]]
+** [[presenting]] 
 :PROPERTIES:
-:BEAMER_ENV: frame
+:heading: true
+:collapsed: true
 :END:
-
-[[file:img/oed.png]]
-
-*** Corpora
+*** [[file:../assets/bad-presentation-slide.png]]
+** [[data]] and [[methods]]
 :PROPERTIES:
-:BEAMER_ENV: frame
+:heading: true
 :END:
-
-[[file:img/coca.png]]
-
-*** Questionnaires
+*** [[dictionaries]] 
 :PROPERTIES:
-:BEAMER_ENV: frame
+:heading: true
+:collapsed: true
 :END:
-
-[[file:img/questionnaire.png]]
-
-** Generating and presenting results
+**** [[file:../assets/oed.png]]
+*** [[corpora]]
 :PROPERTIES:
-:BEAMER_ENV: frame
+:heading: true
+:collapsed: true
 :END:
-
-[[file:img/bad-pie-chart.png]]
+**** [[file:../assets/coca.png]]
+*** [[questionnaire]] 
+:PROPERTIES:
+:heading: true
+:collapsed: true
+:END:
+**** [[file:../assets/questionnaire.png]]
+** Generating and presenting [[results]]
+:PROPERTIES:
+:heading: true
+:END:
+*** [[file:../assets/bad-pie-chart.png]]
