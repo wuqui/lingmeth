@@ -2,4 +2,7 @@
 * [[logseq]]
 * ((62861e92-1e71-492a-9a0c-6aced3187e36))
 * ((628693dd-5caf-4b27-b9ca-342201ebbaa2))
+:PROPERTIES:
+:collapsed: true
+:END:
 * ((6286a16e-1674-4a23-bc6c-ad9e9d3fc9cb))

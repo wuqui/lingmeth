@@ -6,6 +6,7 @@
 ** libraries
 :PROPERTIES:
 :heading: true
+:collapsed: true
 :END:
 *** LMU
 **** [[https://www.ub.uni-muenchen.de/suchen/online-katalog/index.html][OPAC]]
@@ -15,6 +16,7 @@
 ** web
 :PROPERTIES:
 :heading: true
+:collapsed: true
 :END:
 *** [[https://scholar.google.com/][Google Scholar]]
 *** [[https://www.semanticscholar.org/me/research][Semantic Scholar]]
@@ -22,6 +24,7 @@
 ** dark web
 :PROPERTIES:
 :heading: true
+:collapsed: true
 :END:
 *** I can't recommend using these platforms ...
 **** LibGen
@@ -35,6 +38,7 @@
 ** 'Schneeballprinzip'
 :PROPERTIES:
 :heading: true
+:collapsed: true
 :END:
 *** Find a good, (recent) relevant reference to a topic.
 **** Often handbooks provide a high-quality, dense overview.
@@ -72,6 +76,7 @@
 *** [[https://www.anglistik.uni-muenchen.de/service_downloads/allgemeine_handouts/stilblatt.pdf][Stilblatt]] Anglistik LMU
 *** [[https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html][Chicago Author-Date Style]]
 *** [[https://www.linguisticsociety.org/resource/unified-style-sheet][Unified Style Sheet for Linguistics]]
+*** APA
 ** in-text citations
 :PROPERTIES:
 :heading: true
@@ -92,6 +97,9 @@
 :collapsed: true
 :END:
 ** manually
+:PROPERTIES:
+:collapsed: true
+:END:
 *** recommendation: maintain one file with all your bibliographic information
 ** using tools
 *** my recommendation: [[https://www.zotero.org/][Zotero]]
@@ -101,12 +109,16 @@
 ***** ((629899b2-7d3a-4f49-9fa7-a998f23d7462))
 ***** ((629899e2-f84e-42f1-87cb-992df6de856d))
 *** other tools
+:PROPERTIES:
+:collapsed: true
+:END:
 **** [[https://citavi.com/][Citavi]]
 **** [[https://endnote.com/][EndNote]]
 **** [[https://www.mendeley.com/][Mendeley]]
 * How to take notes on references
 :PROPERTIES:
 :heading: true
+:collapsed: true
 :END:
 ** general recommendations: [[note-taking]]
 ** recommendations

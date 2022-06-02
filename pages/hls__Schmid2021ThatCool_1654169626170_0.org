@@ -21,6 +21,7 @@
 :id: 6298a0f3-04d7-48eb-938a-d4ff7d28521b
 :hl-type: area
 :hl-stamp: 1654169842465
+:collapsed: true
 :END:
 ** [[gender]] vs [[age]]
 * Individual Speaker Variation
@@ -30,3 +31,19 @@
 :id: 6298a15d-eb07-4ca8-94a3-8ec967c8d433
 :END:
 ** [[inter-individual variation]]
+* The present study
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 1
+:id: 6298b87e-b1eb-4249-b3dc-1404f1d3c637
+:END:
+** [[accent]]
+* [:span]
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:id: 6298b8c5-63a4-41f4-bfba-1128fd2bfba7
+:hl-type: area
+:hl-stamp: 1654175939402
+:END:
+** [[sociolinguistics]]

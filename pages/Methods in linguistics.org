@@ -26,6 +26,7 @@
 :PROPERTIES:
 :heading: true
 :id: 628693dd-5caf-4b27-b9ca-342201ebbaa2
+:collapsed: true
 :END:
 ** Kate Zhiltsova [[ZhiltsovaE]]
 ** Valentin Weber [[Valentin Weber]]
@@ -66,6 +67,9 @@
 *** [[embodiment]]
 ** Maria Julia Amcizia [[AmiciziaMJ]]
 ** Sara Rotter [[RotterS]]
+** Alina Cohn [[CohnA]]
+**
+**
 * Moodle
 :PROPERTIES:
 :id: 6286a16e-1674-4a23-bc6c-ad9e9d3fc9cb

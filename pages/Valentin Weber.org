@@ -10,6 +10,6 @@
 :END:
 ** Interests
 *** Corpus Linguistics
-**** Social Media
-*** (Cognitive Linguistics)
-*** Neologisms
+**** Web & Social Media
+**** Neologisms
+*** Cognitive Linguistics

@@ -10,10 +10,12 @@
 *
 * *Term paper*
 * *Topic:* ^^The Usage of Feminitives by Women of Different Generations^^
-* *Hypothesis:* There is no difference in the usage of feminitives by younger and older women.
 * *Research questions:*
-	• What percentage of younger women (12-30 years) use feminitives in their daily live?
-	• What percentage of older women (30+ years) use feminitives in their daily live?
-	• How often do younger women (12-30 years) use feminitives on the Internet/in their daily conversations/in their studies or at work? 
-	• How often do older women (30+ years) use feminitives on the Internet/in their daily conversations/in their studies or at work?
+** Do younger women use feminitives more often than the older ones?
+** What percentage of younger women (12-30 years) use feminitives in their daily live?
+** What percentage of older women (30+ years) use feminitives in their daily live?
+** How often do younger women (12-30 years) use feminitives on the Internet/in their daily conversations/in their studies or at work?
+** How often do older women (30+ years) use feminitives on the Internet/in their daily conversations/in their studies or at work?
+* *Hypothesis:* There is no difference in the usage of feminitives by younger and older women.
+* Method: [[questionnaire]]
 *

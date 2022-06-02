@@ -1,0 +1,27 @@
+* Alina Cohn
+** Programme: [[BA linguistics]]
+** Project: [[BA thesis]] or [[term paper]]
+** Interests:
+*** [[sociolinguistics]],
+*** [[cognitive linguistics]],
+*** [[cognitive sociolinguistics]]
+*** [[quantitative methods]]
+*** [[Social Media]]
+*** [[language & extremism]]
+*** [[discourse analysis]]
+*** [[corpus linguistics]]
+*** [[embodiment]]
+*** [[neologisms]]
+* *Lexical Innovation*
+** Topic: Tone and emotion when using neologism over time
+** Hypothesis: Frequency of positive and negative tone and emotion in neologism use change over time
+** Research Question: What differences in positive and negative emotion as well as tone can found in a 5 word context around neologisms during diffusion?
+** Specifics
+*** First idea on neologisms: two neologisms from technology, one from CoviD, two from a social environment
+*** Second idea on neologisms: three neologisms that arose from a development generally seen as positive in society/politics/or dominant poltical party (technical innovation, medicine etc.), three that arose from a development seen as negative (war, disease, disaster)
+** Tools
+*** LIWC
+*** OED
+*** english-corpora.org
+*
+* BA thesis

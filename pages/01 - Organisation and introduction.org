@@ -52,6 +52,7 @@
 * Motivations, goals, and expectations
 :PROPERTIES:
 :heading: true
+:collapsed: true
 :END:
 ** Motivations, goals, and expectations
 :PROPERTIES:
@@ -71,6 +72,7 @@
 * Course overview
 :PROPERTIES:
 :heading: true
+:collapsed: true
 :END:
 ** [[note-taking][Taking notes]]
 :PROPERTIES:
