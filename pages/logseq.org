@@ -1,6 +1,5 @@
 * Accessing =logseq= data
 :PROPERTIES:
-:collapsed: true
 :id: 62794aef-b922-4005-b58d-ee463cb6dbf0
 :heading: true
 :END:
@@ -9,9 +8,6 @@
 :collapsed: true
 :END:
 ** editing
-:PROPERTIES:
-:collapsed: true
-:END:
 *** using [[Dropbox]]
 :PROPERTIES:
 :id: 62794aef-22ed-4626-9193-6291e754c1e7
