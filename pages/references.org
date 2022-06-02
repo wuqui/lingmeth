@@ -1,6 +1,7 @@
 * Finding references
 :PROPERTIES:
 :heading: true
+:collapsed: true
 :END:
 ** libraries
 :PROPERTIES:
@@ -42,6 +43,7 @@
 * Evaluating references
 :PROPERTIES:
 :heading: true
+:collapsed: true
 :END:
 ** [[http://www.lib.berkeley.edu/TeachingLib/Guides/Internet/FindInfo.html][Tutorial]] by the University of Berkeley
 *** *Authority*
@@ -59,6 +61,7 @@
 * Citing references
 :PROPERTIES:
 :heading: true
+:collapsed: true
 :END:
 ** Ask the person marking your paper which styles you can use.
 ** guides
@@ -72,24 +75,41 @@
 ** in-text citations
 :PROPERTIES:
 :heading: true
+:id: 629899b2-7d3a-4f49-9fa7-a998f23d7462
 :END:
 *** usually you should use an author-date format
 **** e.g. (Schmid 2016: 23)
 ** bibliography
 :PROPERTIES:
 :heading: true
+:id: 629899e2-f84e-42f1-87cb-992df6de856d
 :END:
 *** be careful to follow the relevant ((62989480-0c70-48ca-9e0b-6130bd694862))
 *** an example entry of the relevant type can be helpful for getting it right
 * How to manage references
 :PROPERTIES:
 :heading: true
+:collapsed: true
 :END:
 ** manually
 *** recommendation: maintain one file with all your bibliographic information
 ** using tools
 *** my recommendation: [[https://www.zotero.org/][Zotero]]
+**** advantages: free, open-source, cross-platform, collaborative
+**** store references by using, e.g., a [[https://www.zotero.org/download/][browser extension]]
+**** insert  references automatically via plugins for Word, Google Docs, Pages etc.
+***** ((629899b2-7d3a-4f49-9fa7-a998f23d7462))
+***** ((629899e2-f84e-42f1-87cb-992df6de856d))
 *** other tools
 **** [[https://citavi.com/][Citavi]]
 **** [[https://endnote.com/][EndNote]]
 **** [[https://www.mendeley.com/][Mendeley]]
+* How to take notes on references
+:PROPERTIES:
+:heading: true
+:END:
+** general recommendations: [[note-taking]]
+** recommendations
+*** store citation information alongside notes you're taking (e.g. Schmid 2016: 58)
+*** mark everything you copy verbatim to avoid plagiarism
+** example for taking notes in [[logseq]]: [[Schmid2021ThatCool]]
