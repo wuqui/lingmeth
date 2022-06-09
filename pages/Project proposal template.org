@@ -1,0 +1,28 @@
+* Title
+* Research questions and hypotheses
+* Data
+* Methods
+* References
+* Project plan
+** DONE determine research questions and hypotheses
+** TODO collect and read references
+SCHEDULED: <2022-06-05 Sun>
+DEADLINE: <2022-06-10 Fri>
+** TODO establish structure and make outline
+SCHEDULED: <2022-06-12 Sun>
+DEADLINE: <2022-06-17 Fri>
+** TODO get data
+SCHEDULED: <2022-06-19 Sun>
+DEADLINE: <2022-06-24 Fri>
+** TODO analyse data
+DEADLINE: <2022-07-01 Fri>
+SCHEDULED: <2022-06-26 Sun>
+** TODO write paper
+SCHEDULED: <2022-07-03 Sun>
+DEADLINE: <2022-07-21 Thu>
+** TODO proofreading and editing
+DEADLINE: <2022-07-28 Thu>
+SCHEDULED: <2022-07-24 Sun>
+** TODO submit paper
+SCHEDULED: <2022-07-29 Fri>
+DEADLINE: <2022-07-29 Fri>

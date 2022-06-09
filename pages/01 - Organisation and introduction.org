@@ -72,7 +72,6 @@
 * Course overview
 :PROPERTIES:
 :heading: true
-:collapsed: true
 :END:
 ** [[note-taking][Taking notes]]
 :PROPERTIES:
@@ -99,7 +98,6 @@
 ** [[self-management][Self-management]]
 :PROPERTIES:
 :heading: true
-:collapsed: true
 :END:
 *** [[file:../assets/gantt-chart.png]]
 ** [[reading]] and [[writing]] 
