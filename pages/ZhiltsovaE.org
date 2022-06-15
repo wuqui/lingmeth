@@ -9,13 +9,49 @@
 *
 *
 * *Term paper*
-* *Topic:* ^^The Usage of Feminitives by Women of Different Generations^^
+:PROPERTIES:
+:collapsed: true
+:heading: true
+:END:
+* *Topic:* The Usage of Feminitives by Women of Different Generations
 * *Research questions:*
 ** Do younger women use feminitives more often than the older ones?
 ** What percentage of younger women (12-30 years) use feminitives in their daily live?
 ** What percentage of older women (30+ years) use feminitives in their daily live?
 ** How often do younger women (12-30 years) use feminitives on the Internet/in their daily conversations/in their studies or at work?
 ** How often do older women (30+ years) use feminitives on the Internet/in their daily conversations/in their studies or at work?
+* *Data*:
 * *Hypothesis:* There is no difference in the usage of feminitives by younger and older women.
-* Method: [[questionnaire]]
-*
+* *Method*: [[questionnaire]]
+* *References*:
+* *Paper plan:*
+* DONE determine research questions and hypotheses
+* TODO collect and read references
+SCHEDULED: <2022-06-23 Thu>
+DEADLINE: <2022-07-07 Thu>
+* TODO create and launch the questionnaire (a pilot one before)
+SCHEDULED: <2022-07-07 Thu>
+DEADLINE: <2022-07-14 Thu>
+* TODO analyse and describe the data
+DEADLINE: <2022-07-21 Thu>
+SCHEDULED: <2022-07-14 Thu>
+* TODO make a presentation for the project proposal in Methods in Linguistics
+SCHEDULED: <2022-07-03 Sun>
+DEADLINE: <2022-07-20 Fri>
+* TODO write the project proposal
+DEADLINE: <2022-08-26 Fri>
+SCHEDULED: <2022-07-03 Sun>
+* TODO submit the project proposal in Methods in Linguistics
+SCHEDULED: <2022-07-21 Thu>
+DEADLINE: <2022-08-26 Fri>
+* TODO write the paper for Lexical Innovation
+SCHEDULED: <2022-08-01 Mon>
+DEADLINE: <2022-08-19 Fri>
+* TODO proofreading and editing
+SCHEDULED: <2022-06-09 Thu>
+DEADLINE: <2022-09-15 Thu>
+* TODO submit the paper in Lexical Innovation
+SCHEDULED: <2022-09-01 Thu>
+DEADLINE: <2022-09-15 Thu>
+* 26.08
+* 15.09 lex inn

@@ -166,16 +166,12 @@ We tried in the [[02 - Taking notes]] session, but it did't work.
 * Diagrams
 :PROPERTIES:
 :heading: true
-:collapsed: true
 :END:
 ** You can start drawing diagrams by typing =/Draw=
 :PROPERTIES:
 :collapsed: true
 :END:
 ** This is using the excellent https://excalidraw.com/ tool
-:PROPERTIES:
-:collapsed: true
-:END:
 *** [[draws/2022-05-19-22-27-24.excalidraw]]
 :PROPERTIES:
 :collapsed: true

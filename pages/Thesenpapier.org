@@ -1,4 +1,4 @@
-* about 3--5 pages
+* about 3–5 pages
 * contains
 ** [[title]]
 ** [[table of contents]]

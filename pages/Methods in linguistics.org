@@ -8,20 +8,17 @@
 [[sessions]] 
 | Nr |  Date | Topic |
 |---+------+-------|
-| 01 | 28.04 | [[01 - Organisation and introduction][Organisation and introduction]] |
-| 02 | 05.05 | [[02 - Taking notes][Taking notes]] |
-|       | 12.05 | |
-| 03 | 19.05 | [[03 - Research questions and hypotheses][Research questions and hypotheses]] |
-|      | 26.05 | |
-| 04 | 02.06 | [[04 - Reference management][Reference management]] |
-| 05 | 09.06 | [[05 - Self-management][Self-management]] |
-| 06 | 16.06 | [[06 - Reading and writing][Reading and writing]] |
-| 07 | 23.06 | [[07 - Diversity4Research][Diversity4Research]] |
-| 08 | 30.06 | [[08 - Data and methods][Data and methods]] |
-| 09 | 07.07 | [[09 - Data and methods][Data and methods]] |
-| 10 | 14.07 | [[10 - Generating and presenting results][Generating and presenting results]] |
-| 11 | 21.07 | [[11 - Presentations][Presentations]] |
-| 12 | 28.07 | [[12 - Presentations][Presentations]] |
+| 01 | 28.04. | [[01 - Organisation and introduction][Organisation and introduction]] |
+| 02 | 05.05. | [[02 - Taking notes][Taking notes]] |
+| 03 | 19.05. | [[03 - Research questions and hypotheses][Research questions and hypotheses]] |
+| 04 | 02.06. | [[04 - Reference management][Reference management]] |
+| 05 | 09.06. | [[05 - Self-management][Self-management]] |
+| 06 | 23.06. | [[06 - Diversity4Research][Diversity4Research]] |
+| 07 | 30.06. | [[07 - Reading and writing][Reading and writing]] |
+| 08 | 07.07. | [[08 - Data and methods][Data and methods]] |
+| 09 | 14.07. | [[09 - Data and methods][Data and methods]] |
+| 10 | 21.07. | [[10 - Generating and presenting results][Generating and presenting results]] |
+| 11 | 28.07. | [[11 - Presentations][Presentations]] |
 * Participants
 :PROPERTIES:
 :heading: true
@@ -68,8 +65,6 @@
 ** Maria Julia Amcizia [[AmiciziaMJ]]
 ** Sara Rotter [[RotterS]]
 ** Alina Cohn [[CohnA]]
-**
-**
 * Moodle
 :PROPERTIES:
 :id: 6286a16e-1674-4a23-bc6c-ad9e9d3fc9cb

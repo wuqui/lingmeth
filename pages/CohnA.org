@@ -16,12 +16,117 @@
 ** Topic: Tone and emotion when using neologism over time
 ** Hypothesis: Frequency of positive and negative tone and emotion in neologism use change over time
 ** Research Question: What differences in positive and negative emotion as well as tone can found in a 5 word context around neologisms during diffusion?
-** Specifics
+** Idea
 *** First idea on neologisms: two neologisms from technology, one from CoviD, two from a social environment
-*** Second idea on neologisms: three neologisms that arose from a development generally seen as positive in society/politics/or dominant poltical party (technical innovation, medicine etc.), three that arose from a development seen as negative (war, disease, disaster)
-** Tools
+*** Second idea on neologisms: three neologisms that arose from a development generally seen as positive in society/politics/or dominant political party (technical innovation, medicine etc.), three that arose from a development seen as negative (war, disease, disaster)
+** Data
+** Tools/Methods
 *** LIWC
 *** OED
 *** english-corpora.org
+** References
+** Plan
+*** Things to do + details
+**** Prototype
+***** choose a neologism: "smartphone"
+***** research the S-curve in corpora: WHICH ONE
+****** N.O.W. corpus: signals societal interest OR what will BECOME of societal interest (lenkende funktion); sehr groß; sehr aktuell (wird immernoch aktualisiert); aber erst seit 2010
+:LOGBOOK:
+CLOCK: [2022-06-09 Thu 15:27:22]
+CLOCK: [2022-06-09 Thu 15:27:23]--[2022-06-09 Thu 15:29:08] =>  00:01:45
+:END:
+****** COCA corpus: 1990-2019 is a good time-span
+***** find entries on OED for two specific points in time and a 5 word context around the hit & download: web crawler? ("dataminer"?)
+***** enter into LWIC & determine dominant tone & degree of emotion in context
+***** Reflection: is there any difference? is there historical development that supports this?
+**** Literature
+***** Go on google scholar and look for:
+****** attitudes to change & innovation
+****** attitudes to neologisms
+****** tone in neologism use
+****** tone when talking about technological innovation
+***** make a list & short notes
+**** Write Intro
+:PROPERTIES:
+:collapsed: true
+:END:
+***** choose most interesting point
+***** expected outcome
+***** research question & hypothesis
+***** shorten!
+**** Write Theory Part
+:PROPERTIES:
+:collapsed: true
+:END:
+***** look at previous notes
+***** create visual representation
+***** first draft
+***** 2 day break no matter what
+***** second draft
+**** Do Research & write protocoll
+:PROPERTIES:
+:collapsed: true
+:END:
+***** choose final list (max. 4) of neologisms in OED
+***** try to find web crawler
+***** find S-curve for each neologism in corpora
+***** try to find which points in time are best for each neologism (preferably on same points of the S-curve though) -> put into excel
+***** get corpora results for 2 points in time each
+***** put into LIWC
+***** create Excel spreadsheets of LIWC results
+***** Protocol: just keep track in word, divide into different phases (data extraction, historical research, technical research, LIWC)
+**** Write methods/research part
+:PROPERTIES:
+:collapsed: true
+:END:
+***** use protocoll
+***** revise categories/steps in methodology
+***** link references as to why methodology makes sense (S-curve, LIWC)
+***** explain limitations
+**** Do results (diagramms etc.)
+:PROPERTIES:
+:collapsed: true
+:END:
+***** use excel spreadsheets to create relevant diagrams
+***** Compare:
+****** Tone within one neologism
+****** Tone within multiple neologism but same point on S-curve
+****** Difference in tone between 2 points in time within multiple neologisms
+**** Write results
+:PROPERTIES:
+:collapsed: true
+:END:
+***** Create a logical sequence of results
+***** Write & add in diagrams, queries etc.
+***** 2 days break
+***** take notes on possible conclusioon
+***** revise
+**** Revise Theory & Intro
+:PROPERTIES:
+:collapsed: true
+:END:
+***** See if theory part still makes sense considering the results
+***** see if intro still makes sense with probable conclusion/discussion
+**** Write discussion/conclusion
+:PROPERTIES:
+:collapsed: true
+:END:
+***** actually write the conclusion using notes, results, and revised introduction
+***** take a break
+***** revise
+**** Submission for methods: in August (26.)
+*** Schedules (deadlines)
+**** 16.06.22: Prototype
+**** 23.06.22: Literature + Intro
+**** 30.06.22: Notes on Theory part &  start research
+**** 07.07.22: Research phase
+**** 14.07.22: Break: Write Theory part
+**** 21.07.22: Research phase
+**** 28.07.22: Write methods/research part
+**** 04.08.22: Do results & write
+**** 11.08.22: revise theory & intro + write conclusion
+**** 18.08.22: proof-read
+**** 26.08.22: Submission!
+****
 *
 * BA thesis

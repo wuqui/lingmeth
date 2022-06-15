@@ -1,48 +1,46 @@
-[{:block/name "\"quantitative approach",
-  :block/created-at 1654190272141,
-  :block/updated-at 1654190272141}
- {:block/name "\"quantitative approach\"",
+[{:block/name "\"quantitative approach\"",
   :block/created-at 1654190275353,
   :block/updated-at 1654190275353}
+ {:block/name
+  "../assets/schmid2021thatcool_1654169626170_0.pdf][schmid2021thatcool_1654169626170_0.pdf",
+  :block/created-at 1654945498388,
+  :block/updated-at 1654945498388}
  {:block/name "01 - organisation and introduction",
-  :block/created-at 1654598678830,
-  :block/updated-at 1654598678830}
+  :block/created-at 1654945498392,
+  :block/updated-at 1654945498392}
  {:block/name "02 - taking notes",
-  :block/created-at 1654598678828,
-  :block/updated-at 1654598678828}
+  :block/created-at 1654945498388,
+  :block/updated-at 1654945498388}
  {:block/name "03 - research questions and hypotheses",
-  :block/created-at 1654598678832,
-  :block/updated-at 1654598678832}
+  :block/created-at 1654945498397,
+  :block/updated-at 1654945498397}
  {:block/name "04 - reference management",
-  :block/created-at 1654598678830,
-  :block/updated-at 1654598678830}
+  :block/created-at 1654945498391,
+  :block/updated-at 1654945498391}
  {:block/name "05 - self-management",
-  :block/created-at 1654598678831,
-  :block/updated-at 1654598678831}
+  :block/created-at 1654945498394,
+  :block/updated-at 1654945498394}
  {:block/name "06 - reading and writing",
-  :block/created-at 1654598678830,
-  :block/updated-at 1654598678830}
+  :block/created-at 1654945498391,
+  :block/updated-at 1654945498391}
  {:block/name "07 - diversity4research",
-  :block/created-at 1654598678831,
-  :block/updated-at 1654598678831}
- {:block/name "07 - presenting",
-  :block/created-at 1654524511535,
-  :block/updated-at 1654524511535}
+  :block/created-at 1654945498397,
+  :block/updated-at 1654945498397}
  {:block/name "08 - data and methods",
-  :block/created-at 1654598678833,
-  :block/updated-at 1654598678833}
+  :block/created-at 1654945498400,
+  :block/updated-at 1654945498400}
  {:block/name "09 - data and methods",
-  :block/created-at 1654598678832,
-  :block/updated-at 1654598678832}
+  :block/created-at 1654945498399,
+  :block/updated-at 1654945498399}
  {:block/name "10 - generating and presenting results",
-  :block/created-at 1654598678835,
-  :block/updated-at 1654598678835}
+  :block/created-at 1654945498401,
+  :block/updated-at 1654945498401}
  {:block/name "11 - presentations",
-  :block/created-at 1654598678832,
-  :block/updated-at 1654598678832}
+  :block/created-at 1654945498398,
+  :block/updated-at 1654945498398}
  {:block/name "12 - presentations",
-  :block/created-at 1654598678829,
-  :block/updated-at 1654598678829}
+  :block/created-at 1654945498391,
+  :block/updated-at 1654945498391}
  {:block/name "62861e92-1e71-492a-9a0c-6aced3187e36",
   :block/created-at 1654172829456,
   :block/updated-at 1654172829456}
@@ -67,21 +65,24 @@
  {:block/name "6298902a-870e-4167-86d5-d0522b622d52",
   :block/created-at 1654165626275,
   :block/updated-at 1654165626275}
+ {:block/name "\\begin{adjustbox}{max totalheight=.8\\textheight",
+  :block/created-at 1654945498391,
+  :block/updated-at 1654945498391}
  {:block/name "a",
   :block/created-at 1651143841458,
   :block/updated-at 1651143841458}
  {:block/name "abstract",
-  :block/created-at 1654598678831,
-  :block/updated-at 1654598678831}
+  :block/created-at 1654945498394,
+  :block/updated-at 1654945498394}
  {:block/name "accent",
   :block/created-at 1651756252872,
   :block/updated-at 1651756252872}
  {:block/name "age",
-  :block/created-at 1654598678830,
-  :block/updated-at 1654598678830}
+  :block/created-at 1654945498391,
+  :block/updated-at 1654945498391}
  {:block/name "ahrens2017zettelkastenprinziperfolgreich",
-  :block/created-at 1654598678835,
-  :block/updated-at 1654598678835}
+  :block/created-at 1654945498400,
+  :block/updated-at 1654945498400}
  {:block/name "amiciziamj",
   :block/created-at 1651757056164,
   :block/updated-at 1651757056164}
@@ -95,53 +96,59 @@
   :block/created-at 1651756252874,
   :block/updated-at 1651756252874}
  {:block/name "bibliography",
-  :block/created-at 1654598678833,
-  :block/updated-at 1654598678833}
+  :block/created-at 1654945498399,
+  :block/updated-at 1654945498399}
  {:block/name "bnc2014",
-  :block/created-at 1654598678828,
-  :block/updated-at 1654598678828}
+  :block/created-at 1654945498388,
+  :block/updated-at 1654945498388}
  {:block/name "book",
-  :block/created-at 1654598678834,
-  :block/updated-at 1654598678834}
+  :block/created-at 1654945498400,
+  :block/updated-at 1654945498400}
  {:block/name "c",
   :block/created-at 1651143841458,
   :block/updated-at 1651143841458}
  {:block/name "card",
   :block/created-at 1651143841458,
   :block/updated-at 1651143841458}
+ {:block/name "center}",
+  :block/created-at 1654945498400,
+  :block/updated-at 1654945498400}
  {:block/name "cognitive linguistics",
-  :block/created-at 1654191092990,
-  :block/updated-at 1654191092990}
+  :block/created-at 1651756252875,
+  :block/updated-at 1651756252875}
  {:block/name "cognitive sociolinguistics",
-  :block/created-at 1654598678828,
-  :block/updated-at 1654598678828}
+  :block/created-at 1654945498388,
+  :block/updated-at 1654945498388}
  {:block/name "cohna",
-  :block/created-at 1654598678832,
-  :block/updated-at 1654598678832}
+  :block/created-at 1654945498399,
+  :block/updated-at 1654945498399}
  {:block/name "contents",
   :block/created-at 1654172910283,
   :block/updated-at 1654172910283}
  {:block/name "corpora",
-  :block/created-at 1654598678832,
-  :block/updated-at 1654598678832}
+  :block/created-at 1654945498399,
+  :block/updated-at 1654945498399}
  {:block/name "corpus",
-  :block/created-at 1654598678831,
-  :block/updated-at 1654598678831}
+  :block/created-at 1654945498396,
+  :block/updated-at 1654945498396}
  {:block/name "corpus linguistics",
   :block/created-at 1651756252840,
   :block/updated-at 1651756252840}
  {:block/name "corpuslinguistics",
-  :block/created-at 1654598678832,
-  :block/updated-at 1654598678832}
+  :block/created-at 1654945498399,
+  :block/updated-at 1654945498399}
+ {:block/name "cottrell2013studyskills",
+  :block/created-at 1654945498399,
+  :block/updated-at 1654945498399}
  {:block/name "course bibliography",
-  :block/created-at 1654598678835,
-  :block/updated-at 1654598678835}
+  :block/created-at 1654945498401,
+  :block/updated-at 1654945498401}
  {:block/name "data",
-  :block/created-at 1654598678832,
-  :block/updated-at 1654598678832}
+  :block/created-at 1654945498397,
+  :block/updated-at 1654945498397}
  {:block/name "definition",
-  :block/created-at 1654598678831,
-  :block/updated-at 1654598678831}
+  :block/created-at 1654945498396,
+  :block/updated-at 1654945498396}
  {:block/name "dialect",
   :block/created-at 1651756252872,
   :block/updated-at 1651756252872}
@@ -152,110 +159,177 @@
   :block/created-at 1651756252861,
   :block/updated-at 1651756252861}
  {:block/name "discourse analysis",
-  :block/created-at 1654598678832,
-  :block/updated-at 1654598678832}
+  :block/created-at 1654945498398,
+  :block/updated-at 1654945498398}
  {:block/name "discourseanalysis",
-  :block/created-at 1654598678834,
-  :block/updated-at 1654598678834}
+  :block/created-at 1654945498400,
+  :block/updated-at 1654945498400}
  {:block/name "doing",
   :block/created-at 1651143841458,
   :block/updated-at 1651143841458}
  {:block/name "done",
   :block/created-at 1651143841458,
   :block/updated-at 1651143841458}
+ {:block/name "draws/2022-05-19-22-27-24.excalidraw",
+  :block/created-at 1654945498394,
+  :block/updated-at 1654945498394}
  {:block/name "dropbox",
-  :block/created-at 1654598678834,
-  :block/updated-at 1654598678834}
+  :block/created-at 1654945498400,
+  :block/updated-at 1654945498400}
  {:block/name "embodiment",
   :block/created-at 1651756252877,
   :block/updated-at 1651756252877}
  {:block/name "englerc",
-  :block/created-at 1654598678829,
-  :block/updated-at 1654598678829}
+  :block/created-at 1654945498390,
+  :block/updated-at 1654945498390}
  {:block/name "favorites",
   :block/created-at 1654172910282,
   :block/updated-at 1654172910282}
  {:block/name "file:../assets/bad-pie-chart.png",
-  :block/created-at 1654598678831,
-  :block/updated-at 1654598678831}
+  :block/created-at 1654945498395,
+  :block/updated-at 1654945498395}
  {:block/name "file:../assets/bad-presentation-slide.png",
-  :block/created-at 1654598678833,
-  :block/updated-at 1654598678833}
+  :block/created-at 1654945498400,
+  :block/updated-at 1654945498400}
  {:block/name "file:../assets/coca.png",
-  :block/created-at 1654598678831,
-  :block/updated-at 1654598678831}
+  :block/created-at 1654945498395,
+  :block/updated-at 1654945498395}
  {:block/name "file:../assets/gantt-chart.png",
-  :block/created-at 1654598678829,
-  :block/updated-at 1654598678829}
+  :block/created-at 1654945498390,
+  :block/updated-at 1654945498390}
  {:block/name "file:../assets/logseq-book-notes.png",
-  :block/created-at 1654598678830,
-  :block/updated-at 1654598678830}
+  :block/created-at 1654945498393,
+  :block/updated-at 1654945498393}
  {:block/name "file:../assets/mental-lexicon.png",
-  :block/created-at 1654598678829,
-  :block/updated-at 1654598678829}
+  :block/created-at 1654945498390,
+  :block/updated-at 1654945498390}
  {:block/name "file:../assets/networked-notes.png",
-  :block/created-at 1654598678828,
-  :block/updated-at 1654598678828}
+  :block/created-at 1654945498389,
+  :block/updated-at 1654945498389}
  {:block/name "file:../assets/oed.png",
-  :block/created-at 1654598678835,
-  :block/updated-at 1654598678835}
+  :block/created-at 1654945498400,
+  :block/updated-at 1654945498400}
  {:block/name "file:../assets/questionnaire.png",
-  :block/created-at 1654598678831,
-  :block/updated-at 1654598678831}
+  :block/created-at 1654945498395,
+  :block/updated-at 1654945498395}
  {:block/name "file:../assets/rq-and-hypos.png",
-  :block/created-at 1654598678833,
-  :block/updated-at 1654598678833}
+  :block/created-at 1654945498400,
+  :block/updated-at 1654945498400}
  {:block/name "file:../assets/writing-process.png",
-  :block/created-at 1654598678832,
-  :block/updated-at 1654598678832}
+  :block/created-at 1654945498399,
+  :block/updated-at 1654945498399}
  {:block/name "file:../assets/zettelkasten-method.png",
-  :block/created-at 1654598678833,
-  :block/updated-at 1654598678833}
+  :block/created-at 1654945498400,
+  :block/updated-at 1654945498400}
  {:block/name "file:../assets/zotero.png",
-  :block/created-at 1654598678829,
-  :block/updated-at 1654598678829}
+  :block/created-at 1654945498391,
+  :block/updated-at 1654945498391}
+ {:block/name "file:img/bad-pie-chart.png",
+  :block/created-at 1654945498396,
+  :block/updated-at 1654945498396}
+ {:block/name "file:img/bad-presentation-slide.png",
+  :block/created-at 1654945498394,
+  :block/updated-at 1654945498394}
+ {:block/name "file:img/coca.png",
+  :block/created-at 1654945498397,
+  :block/updated-at 1654945498397}
+ {:block/name "file:img/gantt-chart.png",
+  :block/created-at 1654945498398,
+  :block/updated-at 1654945498398}
+ {:block/name "file:img/logseq-book-notes.png",
+  :block/created-at 1654945498391,
+  :block/updated-at 1654945498391}
+ {:block/name "file:img/mental-lexicon.png",
+  :block/created-at 1654945498398,
+  :block/updated-at 1654945498398}
+ {:block/name "file:img/networked-notes.png",
+  :block/created-at 1654945498395,
+  :block/updated-at 1654945498395}
+ {:block/name "file:img/oed.png",
+  :block/created-at 1654945498400,
+  :block/updated-at 1654945498400}
+ {:block/name "file:img/questionnaire.png",
+  :block/created-at 1654945498388,
+  :block/updated-at 1654945498388}
+ {:block/name "file:img/rq-and-hypos.png",
+  :block/created-at 1654945498389,
+  :block/updated-at 1654945498389}
+ {:block/name "file:img/writing-process.png",
+  :block/created-at 1654945498390,
+  :block/updated-at 1654945498390}
+ {:block/name "file:img/zettelkasten-method.png",
+  :block/created-at 1654945498398,
+  :block/updated-at 1654945498398}
+ {:block/name "file:img/zotero.png",
+  :block/created-at 1654945498395,
+  :block/updated-at 1654945498395}
  {:block/name "gender",
-  :block/created-at 1654598678829,
-  :block/updated-at 1654598678829}
+  :block/created-at 1654945498391,
+  :block/updated-at 1654945498391}
  {:block/name "google books",
-  :block/created-at 1654598678832,
-  :block/updated-at 1654598678832}
+  :block/created-at 1654945498398,
+  :block/updated-at 1654945498398}
  {:block/name "google drive",
-  :block/created-at 1654598678834,
-  :block/updated-at 1654598678834}
+  :block/created-at 1654945498400,
+  :block/updated-at 1654945498400}
  {:block/name "hls__schmid2021thatcool_1654169626170_0",
-  :block/created-at 1654598678831,
-  :block/updated-at 1654598678831}
+  :block/created-at 1654945498396,
+  :block/updated-at 1654945498396}
+ {:block/name "https:",
+  :block/created-at 1654165399333,
+  :block/updated-at 1654165399333}
+ {:block/name "https://www.academia.edu",
+  :block/created-at 1654167586402,
+  :block/updated-at 1654167586402}
+ {:block/name "https://www.lmu.de",
+  :block/created-at 1654165399335,
+  :block/updated-at 1654165399335}
+ {:block/name "https://www.lmu.de/de",
+  :block/created-at 1654165399336,
+  :block/updated-at 1654165399336}
+ {:block/name "https://www.lmu.de/de/die-lmu",
+  :block/created-at 1654165399337,
+  :block/updated-at 1654165399337}
+ {:block/name "https://www.lmu.de/de/die-lmu/arbeiten-an-der-lmu",
+  :block/created-at 1654165399338,
+  :block/updated-at 1654165399338}
+ {:block/name
+  "https://www.lmu.de/de/die-lmu/arbeiten-an-der-lmu/zusaetzliche-angebote",
+  :block/created-at 1654165399339,
+  :block/updated-at 1654165399339}
+ {:block/name
+  "https://www.lmu.de/de/die-lmu/arbeiten-an-der-lmu/zusaetzliche-angebote/diversity",
+  :block/created-at 1654165399340,
+  :block/updated-at 1654165399340}
+ {:block/name
+  "https://www.lmu.de/de/die-lmu/arbeiten-an-der-lmu/zusaetzliche-angebote/diversity/diversity4research",
+  :block/created-at 1654165399341,
+  :block/updated-at 1654165399341}
+ {:block/name
+  "https://www.lmu.de/de/die-lmu/arbeiten-an-der-lmu/zusaetzliche-angebote/diversity/diversity4research/gender-und-diversity-als-forschungsgegenstand",
+  :block/created-at 1654165399342,
+  :block/updated-at 1654165399342}
  {:block/name "in-progress",
   :block/created-at 1651143841458,
   :block/updated-at 1651143841458}
  {:block/name "inter-individual variation",
-  :block/created-at 1654598678829,
-  :block/updated-at 1654598678829}
+  :block/created-at 1654945498390,
+  :block/updated-at 1654945498390}
+ {:block/name "jun 14th, 2022",
+  :block/created-at 1655227525013,
+  :block/updated-at 1655227525013}
  {:block/name "jun 20th, 2022",
-  :block/created-at 1654598678830,
-  :block/updated-at 1654598678830}
+  :block/created-at 1654945498392,
+  :block/updated-at 1654945498392}
  {:block/name "jun 2nd, 2022",
   :block/created-at 1654172833106,
   :block/updated-at 1654172833106}
- {:block/name "jun 3rd, 2022",
-  :block/created-at 1654207204636,
-  :block/updated-at 1654207204636}
- {:block/name "jun 4th, 2022",
-  :block/created-at 1654293601985,
-  :block/updated-at 1654293601985}
- {:block/name "jun 5th, 2022",
-  :block/created-at 1654380056862,
-  :block/updated-at 1654380056862}
- {:block/name "jun 6th, 2022",
-  :block/created-at 1654466454386,
-  :block/updated-at 1654466454386}
  {:block/name "jun 7th, 2022",
   :block/created-at 1654602885576,
   :block/updated-at 1654602885576}
- {:block/name "jun 8th, 2022",
-  :block/created-at 1654640107053,
-  :block/updated-at 1654640107053}
+ {:block/name "jun 9th, 2022",
+  :block/created-at 1654764437239,
+  :block/updated-at 1654764437239}
  {:block/name "kraftk",
   :block/created-at 1651757306551,
   :block/updated-at 1651757306551}
@@ -263,11 +337,11 @@
   :block/created-at 1651757264699,
   :block/updated-at 1651757264699}
  {:block/name "language & extremism",
-  :block/created-at 1654598678831,
-  :block/updated-at 1654598678831}
+  :block/created-at 1654945498396,
+  :block/updated-at 1654945498396}
  {:block/name "language&extremism",
-  :block/created-at 1654598678830,
-  :block/updated-at 1654598678830}
+  :block/created-at 1654945498392,
+  :block/updated-at 1654945498392}
  {:block/name "later",
   :block/created-at 1651143841458,
   :block/updated-at 1651143841458}
@@ -281,14 +355,23 @@
   :block/created-at 1651756252844,
   :block/updated-at 1651756252844}
  {:block/name "litosseliti2010researchmethods",
-  :block/created-at 1654598678829,
-  :block/updated-at 1654598678829}
+  :block/created-at 1654945498390,
+  :block/updated-at 1654945498390}
  {:block/name "logseq",
   :block/created-at 1651756252883,
   :block/updated-at 1651847347731}
  {:block/name "markdown",
-  :block/created-at 1654598678829,
-  :block/updated-at 1654598678829}
+  :block/created-at 1654945498390,
+  :block/updated-at 1654945498390}
+ {:block/name "may 20th, 2022",
+  :block/created-at 1653003977426,
+  :block/updated-at 1653003977426}
+ {:block/name "may 21st, 2022",
+  :block/created-at 1653084053995,
+  :block/updated-at 1653084053995}
+ {:block/name "may 23rd, 2022",
+  :block/created-at 1653303107664,
+  :block/updated-at 1653303107664}
  {:block/name "may 9th, 2022",
   :block/created-at 1652054400000,
   :block/updated-at 1652054400000}
@@ -296,11 +379,11 @@
   :block/created-at 1651756252836,
   :block/updated-at 1651756252836}
  {:block/name "mental lexicon",
-  :block/created-at 1654598678835,
-  :block/updated-at 1654598678835}
+  :block/created-at 1654945498400,
+  :block/updated-at 1654945498400}
  {:block/name "methods",
-  :block/created-at 1654598678828,
-  :block/updated-at 1654598678828}
+  :block/created-at 1654945498388,
+  :block/updated-at 1654945498388}
  {:block/name "methods in linguistics",
   :block/created-at 1651756252737,
   :block/updated-at 1652116926161}
@@ -323,23 +406,26 @@
   :block/created-at 1651756252864,
   :block/updated-at 1651756252864}
  {:block/name "operationalisation",
-  :block/created-at 1654598678829,
-  :block/updated-at 1654598678829}
+  :block/created-at 1654945498390,
+  :block/updated-at 1654945498390}
  {:block/name "org-mode",
-  :block/created-at 1654598678829,
-  :block/updated-at 1654598678829}
+  :block/created-at 1654945498391,
+  :block/updated-at 1654945498391}
  {:block/name "paper",
-  :block/created-at 1654598678829,
-  :block/updated-at 1654598678829}
+  :block/created-at 1654945498390,
+  :block/updated-at 1654945498390}
  {:block/name "plain text",
-  :block/created-at 1654598678832,
-  :block/updated-at 1654598678832}
+  :block/created-at 1654945498399,
+  :block/updated-at 1654945498399}
  {:block/name "presenting",
-  :block/created-at 1654598678829,
-  :block/updated-at 1654598678829}
+  :block/created-at 1654945498390,
+  :block/updated-at 1654945498390}
  {:block/name "programme students",
   :block/created-at 1651756252873,
   :block/updated-at 1651756252873}
+ {:block/name "project proposal template",
+  :block/created-at 1654945498395,
+  :block/updated-at 1654945498395}
  {:block/name "psycholinguistics",
   :block/created-at 1651756252859,
   :block/updated-at 1651756252859}
@@ -350,86 +436,89 @@
   :block/created-at 1651756252835,
   :block/updated-at 1651756252835}
  {:block/name "quantitative methods",
-  :block/created-at 1654598678831,
-  :block/updated-at 1654598678831}
+  :block/created-at 1654945498396,
+  :block/updated-at 1654945498396}
  {:block/name "questionnaire",
-  :block/created-at 1654598678830,
-  :block/updated-at 1654598678830}
+  :block/created-at 1654945498394,
+  :block/updated-at 1654945498394}
  {:block/name "rasinger2010quantitativemethods",
-  :block/created-at 1654598678831,
-  :block/updated-at 1654598678831}
+  :block/created-at 1654945498394,
+  :block/updated-at 1654945498394}
  {:block/name "reading",
-  :block/created-at 1654598678831,
-  :block/updated-at 1654598678831}
+  :block/created-at 1654945498396,
+  :block/updated-at 1654945498396}
  {:block/name "readme",
-  :block/created-at 1654598678833,
-  :block/updated-at 1654598678833}
+  :block/created-at 1654945498400,
+  :block/updated-at 1654945498400}
  {:block/name "reddit",
   :block/created-at 1651756252843,
   :block/updated-at 1651756252843}
  {:block/name "references",
-  :block/created-at 1654598678828,
-  :block/updated-at 1654598678828}
+  :block/created-at 1654945498388,
+  :block/updated-at 1654945498388}
  {:block/name "register",
-  :block/created-at 1654598678830,
-  :block/updated-at 1654598678830}
+  :block/created-at 1654945498391,
+  :block/updated-at 1654945498391}
  {:block/name "reliability",
-  :block/created-at 1654598678831,
-  :block/updated-at 1654598678831}
+  :block/created-at 1654945498395,
+  :block/updated-at 1654945498395}
  {:block/name "research methods",
-  :block/created-at 1654598678831,
-  :block/updated-at 1654598678831}
+  :block/created-at 1654945498397,
+  :block/updated-at 1654945498397}
  {:block/name "research questions and hypotheses",
-  :block/created-at 1654598678830,
-  :block/updated-at 1654598678830}
+  :block/created-at 1654945498392,
+  :block/updated-at 1654945498392}
  {:block/name "results",
-  :block/created-at 1654598678830,
-  :block/updated-at 1654598678830}
+  :block/created-at 1654945498394,
+  :block/updated-at 1654945498394}
  {:block/name "rotters",
-  :block/created-at 1654598678835,
-  :block/updated-at 1654598678835}
+  :block/created-at 1654945498401,
+  :block/updated-at 1654945498401}
  {:block/name "schmid2021thatcool",
-  :block/created-at 1654598678828,
-  :block/updated-at 1654598678828}
+  :block/created-at 1654945498388,
+  :block/updated-at 1654945498388}
  {:block/name "self-management",
-  :block/created-at 1654598678832,
-  :block/updated-at 1654598678832}
+  :block/created-at 1654945498399,
+  :block/updated-at 1654945498399}
  {:block/name "sessions",
-  :block/created-at 1654598678829,
-  :block/updated-at 1654598678829}
+  :block/created-at 1654945498389,
+  :block/updated-at 1654945498389}
  {:block/name "social media",
-  :block/created-at 1654598678829,
-  :block/updated-at 1654598678829}
+  :block/created-at 1654945498391,
+  :block/updated-at 1654945498391}
  {:block/name "sociolect",
-  :block/created-at 1654598678830,
-  :block/updated-at 1654598678830}
+  :block/created-at 1654945498391,
+  :block/updated-at 1654945498391}
  {:block/name "sociolinguistics",
   :block/created-at 1651756252875,
   :block/updated-at 1651756252875}
  {:block/name "spiesl",
-  :block/created-at 1654598678832,
-  :block/updated-at 1654598678832}
+  :block/created-at 1654945498398,
+  :block/updated-at 1654945498398}
+ {:block/name "study skills",
+  :block/created-at 1654945498393,
+  :block/updated-at 1654945498393}
  {:block/name "sunderland2010researchquestions",
-  :block/created-at 1654598678835,
-  :block/updated-at 1654598678835}
+  :block/created-at 1654945498405,
+  :block/updated-at 1654945498405}
  {:block/name "table of contents",
-  :block/created-at 1654598678830,
-  :block/updated-at 1654598678830}
+  :block/created-at 1654945498391,
+  :block/updated-at 1654945498391}
  {:block/name "term paper",
   :block/created-at 1651756252856,
   :block/updated-at 1651756252856}
  {:block/name "thesenpapier",
-  :block/created-at 1654598678832,
-  :block/updated-at 1654598678832}
+  :block/created-at 1654945498399,
+  :block/updated-at 1654945498399}
  {:block/name "title",
-  :block/created-at 1654598678832,
-  :block/updated-at 1654598678832}
+  :block/created-at 1654945498398,
+  :block/updated-at 1654945498398}
  {:block/name "todo",
   :block/created-at 1651143841458,
   :block/updated-at 1651143841458}
  {:block/name "topic",
-  :block/created-at 1654598678835,
-  :block/updated-at 1654598678835}
+  :block/created-at 1654945498401,
+  :block/updated-at 1654945498401}
  {:block/name "transliteration",
   :block/created-at 1651756252835,
   :block/updated-at 1651756252835}
@@ -437,20 +526,20 @@
   :block/created-at 1651756252834,
   :block/updated-at 1651756252834}
  {:block/name "universitätsbibliothek",
-  :block/created-at 1654598678831,
-  :block/updated-at 1654598678831}
+  :block/created-at 1654945498396,
+  :block/updated-at 1654945498396}
  {:block/name "usage context",
   :block/created-at 1651756252845,
   :block/updated-at 1651756252845}
  {:block/name "valentin weber",
-  :block/created-at 1654598678833,
-  :block/updated-at 1654598678833}
+  :block/created-at 1654945498399,
+  :block/updated-at 1654945498399}
  {:block/name "validity",
-  :block/created-at 1654598678832,
-  :block/updated-at 1654598678832}
+  :block/created-at 1654945498398,
+  :block/updated-at 1654945498398}
  {:block/name "variable",
-  :block/created-at 1654598678831,
-  :block/updated-at 1654598678831}
+  :block/created-at 1654945498396,
+  :block/updated-at 1654945498396}
  {:block/name "wait",
   :block/created-at 1651143841458,
   :block/updated-at 1651143841458}
@@ -458,14 +547,14 @@
   :block/created-at 1651143841458,
   :block/updated-at 1651143841458}
  {:block/name "writing",
-  :block/created-at 1654598678832,
-  :block/updated-at 1654598678832}
+  :block/created-at 1654945498397,
+  :block/updated-at 1654945498397}
  {:block/name "wuerschingerq",
   :block/created-at 1651756252737,
   :block/updated-at 1651757233310}
  {:block/name "zettelkasten",
-  :block/created-at 1654598678832,
-  :block/updated-at 1654598678832}
+  :block/created-at 1654945498399,
+  :block/updated-at 1654945498399}
  {:block/name "zhiltsovae",
   :block/created-at 1651757872817, 
   :block/updated-at 1654176717988}]

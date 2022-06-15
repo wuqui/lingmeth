@@ -13,7 +13,6 @@
 ** Course description
 :PROPERTIES:
 :heading: true
-:collapsed: true
 :END:
 *** {{embed ((6287d1a0-cc43-41a7-8e20-032314c1218e))}}
 :PROPERTIES:
@@ -24,7 +23,6 @@
 ** Course concept
 :PROPERTIES:
 :heading: true
-:collapsed: true
 :END:
 *** {{embed ((6287d242-c00e-4f2f-8ea0-66f3484a0f02))}}
 :PROPERTIES:
@@ -35,14 +33,12 @@
 ** Course schedule
 :PROPERTIES:
 :heading: true
-:collapsed: true
 :END:
 *** {{embed ((628693dc-711e-4324-b3e5-c8d5e743ded2))}}
 ** Course materials
 :PROPERTIES:
 :beamer-env: frame
 :heading: true
-:collapsed: true
 :END:
 *** We will use a collaborative [[logseq]] notes database.
 **** I will include all course materials in this repository.
