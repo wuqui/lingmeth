@@ -20,12 +20,12 @@
  {:block/name "05 - self-management",
   :block/created-at 1654945498394,
   :block/updated-at 1654945498394}
- {:block/name "06 - reading and writing",
-  :block/created-at 1654945498391,
-  :block/updated-at 1654945498391}
- {:block/name "07 - diversity4research",
+ {:block/name "06 - diversity4research",
   :block/created-at 1654945498397,
   :block/updated-at 1654945498397}
+ {:block/name "07 - reading and writing",
+  :block/created-at 1654945498391,
+  :block/updated-at 1654945498391}
  {:block/name "08 - data and methods",
   :block/created-at 1654945498400,
   :block/updated-at 1654945498400}
@@ -38,9 +38,6 @@
  {:block/name "11 - presentations",
   :block/created-at 1654945498398,
   :block/updated-at 1654945498398}
- {:block/name "12 - presentations",
-  :block/created-at 1654945498391,
-  :block/updated-at 1654945498391}
  {:block/name "62861e92-1e71-492a-9a0c-6aced3187e36",
   :block/created-at 1654172829456,
   :block/updated-at 1654172829456}
@@ -318,6 +315,9 @@
  {:block/name "jun 14th, 2022",
   :block/created-at 1655227525013,
   :block/updated-at 1655227525013}
+ {:block/name "jun 15th, 2022",
+  :block/created-at 1655298336004,
+  :block/updated-at 1655298336004}
  {:block/name "jun 20th, 2022",
   :block/created-at 1654945498392,
   :block/updated-at 1654945498392}
@@ -386,7 +386,7 @@
   :block/updated-at 1654945498388}
  {:block/name "methods in linguistics",
   :block/created-at 1651756252737,
-  :block/updated-at 1652116926161}
+  :block/updated-at 1655300848891}
  {:block/name "modulprüfung",
   :block/created-at 1651756252881,
   :block/updated-at 1651756252881}

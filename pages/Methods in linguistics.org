@@ -120,7 +120,6 @@ Please quickly introduce yourself.
 :PROPERTIES:
 :heading: true
 :id: 6287d6b6-5f49-4837-809e-5f35ee6e2356
-:collapsed: true
 :END:
 ** TODO active attendance
 ** TODO writing a research proposal ([[Thesenpapier]])

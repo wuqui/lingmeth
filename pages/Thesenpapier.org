@@ -1,7 +1,8 @@
 * about 3–5 pages
-* contains
+* contents
 ** [[title]]
 ** [[table of contents]]
 ** [[abstract]]
 ** [[data]] and [[methods]]
 ** [[bibliography]]
+* *deadline* for submission: 7 September 2022
