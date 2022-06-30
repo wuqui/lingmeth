@@ -90,3 +90,17 @@
 ** Avoid fillers
 ** Use active instead of passive
 ** Use verbs instead of nouns
+* Tools
+:PROPERTIES:
+:heading: true
+:END:
+** dictionaries
+*** [[https://www.linguee.de/][linguee]]
+*** [[https://www.dict.cc/][dict]]
+** thesaurus
+*** https://www.thesaurus.com/
+** collocations
+*** https://ozdic.com/
+** spelling and grammar checking
+*** https://languagetool.org/de
+*** https://www.grammarly.com/
