@@ -1,10 +1,6 @@
 [{:block/name "\"quantitative approach\"",
-  :block/created-at 1654190275353,
-  :block/updated-at 1654190275353}
- {:block/name
-  "../assets/schmid2021thatcool_1654169626170_0.pdf][schmid2021thatcool_1654169626170_0.pdf",
-  :block/created-at 1654945498388,
-  :block/updated-at 1654945498388}
+  :block/created-at 1654190859840,
+  :block/updated-at 1654190859840}
  {:block/name "01 - organisation and introduction",
   :block/created-at 1654945498392,
   :block/updated-at 1654945498392}
@@ -21,11 +17,14 @@
   :block/created-at 1654945498394,
   :block/updated-at 1654945498394}
  {:block/name "06 - diversity4research",
-  :block/created-at 1654945498397,
-  :block/updated-at 1654945498397}
+  :block/created-at 1655706889995,
+  :block/updated-at 1655706889995}
+ {:block/name "06 - reading and writing",
+  :block/created-at 1654782042001,
+  :block/updated-at 1654782042001}
  {:block/name "07 - reading and writing",
-  :block/created-at 1654945498391,
-  :block/updated-at 1654945498391}
+  :block/created-at 1655706895363,
+  :block/updated-at 1655706895363}
  {:block/name "08 - data and methods",
   :block/created-at 1654945498400,
   :block/updated-at 1654945498400}
@@ -38,6 +37,9 @@
  {:block/name "11 - presentations",
   :block/created-at 1654945498398,
   :block/updated-at 1654945498398}
+ {:block/name "12 - presentations",
+  :block/created-at 1654782042001,
+  :block/updated-at 1654782042001}
  {:block/name "62861e92-1e71-492a-9a0c-6aced3187e36",
   :block/created-at 1654172829456,
   :block/updated-at 1654172829456}
@@ -59,12 +61,6 @@
  {:block/name "6287d6b6-5f49-4837-809e-5f35ee6e2356",
   :block/created-at 1654172829459,
   :block/updated-at 1654172829459}
- {:block/name "6298902a-870e-4167-86d5-d0522b622d52",
-  :block/created-at 1654165626275,
-  :block/updated-at 1654165626275}
- {:block/name "\\begin{adjustbox}{max totalheight=.8\\textheight",
-  :block/created-at 1654945498391,
-  :block/updated-at 1654945498391}
  {:block/name "a",
   :block/created-at 1651143841458,
   :block/updated-at 1651143841458}
@@ -107,12 +103,9 @@
  {:block/name "card",
   :block/created-at 1651143841458,
   :block/updated-at 1651143841458}
- {:block/name "center}",
-  :block/created-at 1654945498400,
-  :block/updated-at 1654945498400}
  {:block/name "cognitive linguistics",
-  :block/created-at 1651756252875,
-  :block/updated-at 1651756252875}
+  :block/created-at 1654191092990,
+  :block/updated-at 1654191092990}
  {:block/name "cognitive sociolinguistics",
   :block/created-at 1654945498388,
   :block/updated-at 1654945498388}
@@ -167,9 +160,6 @@
  {:block/name "done",
   :block/created-at 1651143841458,
   :block/updated-at 1651143841458}
- {:block/name "draws/2022-05-19-22-27-24.excalidraw",
-  :block/created-at 1654945498394,
-  :block/updated-at 1654945498394}
  {:block/name "dropbox",
   :block/created-at 1654945498400,
   :block/updated-at 1654945498400}
@@ -221,45 +211,6 @@
  {:block/name "file:../assets/zotero.png",
   :block/created-at 1654945498391,
   :block/updated-at 1654945498391}
- {:block/name "file:img/bad-pie-chart.png",
-  :block/created-at 1654945498396,
-  :block/updated-at 1654945498396}
- {:block/name "file:img/bad-presentation-slide.png",
-  :block/created-at 1654945498394,
-  :block/updated-at 1654945498394}
- {:block/name "file:img/coca.png",
-  :block/created-at 1654945498397,
-  :block/updated-at 1654945498397}
- {:block/name "file:img/gantt-chart.png",
-  :block/created-at 1654945498398,
-  :block/updated-at 1654945498398}
- {:block/name "file:img/logseq-book-notes.png",
-  :block/created-at 1654945498391,
-  :block/updated-at 1654945498391}
- {:block/name "file:img/mental-lexicon.png",
-  :block/created-at 1654945498398,
-  :block/updated-at 1654945498398}
- {:block/name "file:img/networked-notes.png",
-  :block/created-at 1654945498395,
-  :block/updated-at 1654945498395}
- {:block/name "file:img/oed.png",
-  :block/created-at 1654945498400,
-  :block/updated-at 1654945498400}
- {:block/name "file:img/questionnaire.png",
-  :block/created-at 1654945498388,
-  :block/updated-at 1654945498388}
- {:block/name "file:img/rq-and-hypos.png",
-  :block/created-at 1654945498389,
-  :block/updated-at 1654945498389}
- {:block/name "file:img/writing-process.png",
-  :block/created-at 1654945498390,
-  :block/updated-at 1654945498390}
- {:block/name "file:img/zettelkasten-method.png",
-  :block/created-at 1654945498398,
-  :block/updated-at 1654945498398}
- {:block/name "file:img/zotero.png",
-  :block/created-at 1654945498395,
-  :block/updated-at 1654945498395}
  {:block/name "gender",
   :block/created-at 1654945498391,
   :block/updated-at 1654945498391}
@@ -272,61 +223,51 @@
  {:block/name "hls__schmid2021thatcool_1654169626170_0",
   :block/created-at 1654945498396,
   :block/updated-at 1654945498396}
- {:block/name "https:",
-  :block/created-at 1654165399333,
-  :block/updated-at 1654165399333}
- {:block/name "https://www.academia.edu",
-  :block/created-at 1654167586402,
-  :block/updated-at 1654167586402}
- {:block/name "https://www.lmu.de",
-  :block/created-at 1654165399335,
-  :block/updated-at 1654165399335}
- {:block/name "https://www.lmu.de/de",
-  :block/created-at 1654165399336,
-  :block/updated-at 1654165399336}
- {:block/name "https://www.lmu.de/de/die-lmu",
-  :block/created-at 1654165399337,
-  :block/updated-at 1654165399337}
- {:block/name "https://www.lmu.de/de/die-lmu/arbeiten-an-der-lmu",
-  :block/created-at 1654165399338,
-  :block/updated-at 1654165399338}
- {:block/name
-  "https://www.lmu.de/de/die-lmu/arbeiten-an-der-lmu/zusaetzliche-angebote",
-  :block/created-at 1654165399339,
-  :block/updated-at 1654165399339}
- {:block/name
-  "https://www.lmu.de/de/die-lmu/arbeiten-an-der-lmu/zusaetzliche-angebote/diversity",
-  :block/created-at 1654165399340,
-  :block/updated-at 1654165399340}
- {:block/name
-  "https://www.lmu.de/de/die-lmu/arbeiten-an-der-lmu/zusaetzliche-angebote/diversity/diversity4research",
-  :block/created-at 1654165399341,
-  :block/updated-at 1654165399341}
- {:block/name
-  "https://www.lmu.de/de/die-lmu/arbeiten-an-der-lmu/zusaetzliche-angebote/diversity/diversity4research/gender-und-diversity-als-forschungsgegenstand",
-  :block/created-at 1654165399342,
-  :block/updated-at 1654165399342}
  {:block/name "in-progress",
   :block/created-at 1651143841458,
   :block/updated-at 1651143841458}
  {:block/name "inter-individual variation",
   :block/created-at 1654945498390,
   :block/updated-at 1654945498390}
- {:block/name "jun 14th, 2022",
-  :block/created-at 1655227525013,
-  :block/updated-at 1655227525013}
- {:block/name "jun 15th, 2022",
-  :block/created-at 1655298336004,
-  :block/updated-at 1655298336004}
+ {:block/name "jun 10th, 2022",
+  :block/created-at 1654814982411,
+  :block/updated-at 1654814982411}
+ {:block/name "jun 11th, 2022",
+  :block/created-at 1654934416156,
+  :block/updated-at 1654934416156}
+ {:block/name "jun 13th, 2022",
+  :block/created-at 1655114408824,
+  :block/updated-at 1655114408824}
  {:block/name "jun 20th, 2022",
   :block/created-at 1654945498392,
   :block/updated-at 1654945498392}
+ {:block/name "jun 23rd, 2022",
+  :block/created-at 1655971769180,
+  :block/updated-at 1655971769180}
+ {:block/name "jun 24th, 2022",
+  :block/created-at 1656056025715,
+  :block/updated-at 1656056025715}
  {:block/name "jun 2nd, 2022",
   :block/created-at 1654172833106,
   :block/updated-at 1654172833106}
+ {:block/name "jun 3rd, 2022",
+  :block/created-at 1654220059186,
+  :block/updated-at 1654220059186}
+ {:block/name "jun 4th, 2022",
+  :block/created-at 1654296182889,
+  :block/updated-at 1654296182889}
+ {:block/name "jun 5th, 2022",
+  :block/created-at 1654446869277,
+  :block/updated-at 1654446869277}
+ {:block/name "jun 6th, 2022",
+  :block/created-at 1654480744153,
+  :block/updated-at 1654480744153}
  {:block/name "jun 7th, 2022",
   :block/created-at 1654602885576,
   :block/updated-at 1654602885576}
+ {:block/name "jun 8th, 2022",
+  :block/created-at 1654652411039,
+  :block/updated-at 1654652411039}
  {:block/name "jun 9th, 2022",
   :block/created-at 1654764437239,
   :block/updated-at 1654764437239}
@@ -363,15 +304,9 @@
  {:block/name "markdown",
   :block/created-at 1654945498390,
   :block/updated-at 1654945498390}
- {:block/name "may 20th, 2022",
-  :block/created-at 1653003977426,
-  :block/updated-at 1653003977426}
- {:block/name "may 21st, 2022",
-  :block/created-at 1653084053995,
-  :block/updated-at 1653084053995}
- {:block/name "may 23rd, 2022",
-  :block/created-at 1653303107664,
-  :block/updated-at 1653303107664}
+ {:block/name "may 19th, 2022",
+  :block/created-at 1652966954959,
+  :block/updated-at 1652966954959}
  {:block/name "may 9th, 2022",
   :block/created-at 1652054400000,
   :block/updated-at 1652054400000}
@@ -414,6 +349,9 @@
  {:block/name "paper",
   :block/created-at 1654945498390,
   :block/updated-at 1654945498390}
+ {:block/name "participant",
+  :block/created-at 1654782042007,
+  :block/updated-at 1654782042007}
  {:block/name "plain text",
   :block/created-at 1654945498399,
   :block/updated-at 1654945498399}
@@ -509,7 +447,7 @@
   :block/updated-at 1651756252856}
  {:block/name "thesenpapier",
   :block/created-at 1654945498399,
-  :block/updated-at 1654945498399}
+  :block/updated-at 1655462048376}
  {:block/name "title",
   :block/created-at 1654945498398,
   :block/updated-at 1654945498398}
