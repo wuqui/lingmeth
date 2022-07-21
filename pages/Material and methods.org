@@ -22,3 +22,6 @@
 :heading: true
 :END:
 ** [[corpora]]
+** [[questionnaires]]
+** [[discourse analysis]]
+* [[statistics]]

@@ -1,0 +1,12 @@
+* tools
+** http://www.freeonlinesurveys.com
+** http://www.surveymonkey.com
+*** Basic allows up to 10 questions
+** http://www.KwikSurveys.com
+*** Individiual allows up ot 100 answers per survey
+** https://docs.google.com/forms/u/0/
+*** Google Survey
+** http://www.socisurvey.de
+*** available via your campus login
+** https://www.phonic.ai
+*** available as a free trial with restricted tools, allows audio and video

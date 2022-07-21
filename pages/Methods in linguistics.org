@@ -2,7 +2,6 @@
 :PROPERTIES:
 :id: 62861e92-1e71-492a-9a0c-6aced3187e36
 :heading: true
-:collapsed: true
 :END:
 [[sessions]] 
 | Nr |  Date | Topic |
@@ -105,7 +104,6 @@
 :PROPERTIES:
 :heading: true
 :id: 6287d325-2847-41a8-ad0f-39fc279a63f9
-:collapsed: true
 :END:
 Please quickly introduce yourself.
 ** TODO What is your background? (Study programme, previous experience etc.)
@@ -118,7 +116,6 @@ Please quickly introduce yourself.
 :PROPERTIES:
 :heading: true
 :id: 62d914e7-03bb-4754-95dd-77a3bf04f5ae
-:collapsed: true
 :END:
 ** | Date             |  Time |
 |------------------+-------|
@@ -131,7 +128,6 @@ Please quickly introduce yourself.
 :PROPERTIES:
 :heading: true
 :id: 6287d6b6-5f49-4837-809e-5f35ee6e2356
-:collapsed: true
 :END:
 ** TODO active attendance
 ** TODO writing a research proposal ([[Thesenpapier]])
