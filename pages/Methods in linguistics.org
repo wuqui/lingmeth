@@ -1,9 +1,8 @@
-#+title: Methods In Linguistics
-
 * Schedule
 :PROPERTIES:
 :id: 62861e92-1e71-492a-9a0c-6aced3187e36
 :heading: true
+:collapsed: true
 :END:
 [[sessions]] 
 | Nr |  Date | Topic |
@@ -17,6 +16,8 @@
 | 07 | 30.06. | [[07 - Reading and writing][Reading and writing]] |
 | 08 | 21.07. | [[08 - Data and methods][Data and methods]] |
 | 09 | 28.07. | [[09 - Data and methods][Data and methods]] |
+#+title: Methods In Linguistics
+
 * Participants
 :PROPERTIES:
 :heading: true
@@ -106,7 +107,6 @@
 :id: 6287d325-2847-41a8-ad0f-39fc279a63f9
 :collapsed: true
 :END:
-
 Please quickly introduce yourself.
 ** TODO What is your background? (Study programme, previous experience etc.)
 ** TODO As part of which module are you takings this course?
@@ -114,10 +114,24 @@ Please quickly introduce yourself.
   BA thesis, Zulassungsarbeit etc.; supervisor; deadline)
 ** TODO Which topic are you planning to write your paper about?
 ** TODO Which data and methods are you planning to use?
+* Zoom sessions
+:PROPERTIES:
+:heading: true
+:id: 62d914e7-03bb-4754-95dd-77a3bf04f5ae
+:collapsed: true
+:END:
+** | Date             |  Time |
+|------------------+-------|
+| [2022-08-08 Mon] | 09:00 |
+| [2022-08-09 Tue] | 14:00 |
+| [2022-08-17 Wed] | 09:00 |
+| [2022-08-18 Thu] | 14:00 |
+** Please send me an email beforehand to register.
 * Requirements
 :PROPERTIES:
 :heading: true
 :id: 6287d6b6-5f49-4837-809e-5f35ee6e2356
+:collapsed: true
 :END:
 ** TODO active attendance
 ** TODO writing a research proposal ([[Thesenpapier]])

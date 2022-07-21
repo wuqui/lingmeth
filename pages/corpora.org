@@ -1,3 +1,65 @@
 #+alias: corpus
 
 * used in [[corpus linguistics]]
+* Tools for corpus analysis
+** online platforms
+*** [[http://corpora.lancs.ac.uk/bnc2014/][BNC]]
+*** [[https://www.english-corpora.org/][english-corpora.org]]
+*** [[https://www.sketchengine.eu/][SketchEngine]]
+** offline tools
+*** [[https://www.laurenceanthony.net/software/antconc/][AntConc]]
+*** [[http://corpora.lancs.ac.uk/lancsbox/#:~:text=%23LancsBox%20is%20a%20new%2Dgeneration,Leading%20research%20in%20corpus%20linguistics.][LancsBox]]
+*** WordSmith
+* [[https://www.english-corpora.org/][english-corpora.org]]
+** overview of corpora
+:PROPERTIES:
+:collapsed: true
+:END:
+*** [[../assets/image_1658394634550_0.png]]
+** diachronic analyses
+:PROPERTIES:
+:collapsed: true
+:END:
+*** how to
+**** using the =chart= view:
+[[../assets/image_1658394994812_0.png]]
+*** COHA
+**** [[../assets/image_1658394853448_0.png]]
+query for =phone=
+*** COCA
+**** [[../assets/image_1658394904472_0.png]]
+query for =phone=
+*** the NOW corpus
+:LOGBOOK:
+CLOCK: [2022-07-21 Thu 11:10:52]
+CLOCK: [2022-07-21 Thu 11:10:53]
+:END:
+**** [[../assets/image_1658394940310_0.png]]
+query for =phone=
+*** ...
+** text type variation
+:PROPERTIES:
+:collapsed: true
+:END:
+*** how to
+**** use =chart= view
+[[../assets/image_1658395071541_0.png]]
+*** e.g. COCA
+**** query for =phone=
+[[../assets/image_1658395032641_0.png]]
+** geospatial variation
+:PROPERTIES:
+:collapsed: true
+:END:
+*** e.g. NOW corpus
+:LOGBOOK:
+CLOCK: [2022-07-21 Thu 11:12:47]
+:END:
+**** use =chart= view
+***** [[../assets/image_1658395244248_0.png]]
+**** =see frequency by country=
+***** [[../assets/image_1658395146822_0.png]]
+**** results
+***** [[../assets/image_1658395277291_0.png]]
+***
+***
