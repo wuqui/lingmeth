@@ -1,4 +1,4 @@
-* about 3–5 pages
+* about 3–5 pages (3.000–5.000 characters)
 * contents
 ** [[title]]
 ** [[table of contents]]

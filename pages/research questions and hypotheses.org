@@ -74,6 +74,9 @@ Your topic and a preliminary title in mind you work out a set of research questi
 *** RQ is interrogative, addresses a part of the topic; is more exploratory and broader than a hypothesis
 *** according to its *function* an RQ can be
 **** descriptive
+:PROPERTIES:
+:collapsed: true
+:END:
 **** explanatory
 :PROPERTIES:
 :id: 62862ae8-bc99-4882-ae80-851d5c10cc35

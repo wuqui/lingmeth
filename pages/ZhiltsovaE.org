@@ -26,10 +26,10 @@
 * *References*:
 * *Paper plan:*
 * DONE determine research questions and hypotheses
-* TODO collect and read references
+* DONE collect and read references
 SCHEDULED: <2022-06-23 Thu>
 DEADLINE: <2022-07-07 Thu>
-* TODO create and launch the questionnaire (a pilot one before)
+* DONE create and launch the questionnaire (a pilot one before)
 SCHEDULED: <2022-07-07 Thu>
 DEADLINE: <2022-07-14 Thu>
 * TODO analyse and describe the data

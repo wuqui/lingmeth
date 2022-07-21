@@ -1,6 +1,7 @@
 * Start as early as possible
 :PROPERTIES:
 :heading: true
+:collapsed: true
 :END:
 ** *Phase I*: before you even start, write a proposal/abstract/summary of your ideas, main hypotheses, your research diary
 ** *Phase II*: write while you read
@@ -13,16 +14,21 @@
 * Text components
 :PROPERTIES:
 :heading: true
+:collapsed: true
 :END:
 ** Introduction
 :PROPERTIES:
 :heading: true
+:collapsed: true
 :END:
 *** Fictional dialogue between reader and author (cf. [[Franck2006Technik]]: 143):
+:PROPERTIES:
+:END:
 **** [[../assets/image_1656580397310_0.png]]
 ** Main body
 :PROPERTIES:
 :heading: true
+:collapsed: true
 :END:
 *** consists of all the chapters that together result in a comprehensive picture
 *** often starts with a chapter on the state of the art / literature review or on the theoretical background
@@ -33,19 +39,27 @@
 ** Conclusion
 :PROPERTIES:
 :heading: true
+:collapsed: true
 :END:
 *** summary
 *** discussion of main findings
+*** limitations, outlook (future work)
 *** implications for related work
 *** implications for your research question
-*** outlook (future work)
 * Structure
 :PROPERTIES:
 :heading: true
+:collapsed: true
 :END:
 ** clear overall structure, logical relation between sections and subsections
+:PROPERTIES:
+:collapsed: true
+:END:
 ** balanced relation theoretical - empirical and between chapters
 ** table-of-content-types:
+:PROPERTIES:
+:collapsed: true
+:END:
 *** chronological
 *** systematic (sections have the same value for the topic; e.g. central issues, functions, theories  & concepts)
 *** deductive (general >> particular; draw a conclusion from a hypothesis/theory)
@@ -55,17 +69,31 @@
 * Self-control
 :PROPERTIES:
 :heading: true
+:collapsed: true
 :END:
 ** Adjust hypotheses and/or research questions whenever necessary
+:PROPERTIES:
+:collapsed: true
+:END:
 *** Sticking to the topic/central theme
+:PROPERTIES:
+:collapsed: true
+:END:
 **** During the writing process, have your table of contents in mind, and adjust the structure, if necessary. Rearrange sections, delete irrelevant parts, fill in missing sections etc. Start writing with an easy chapter, e.g. the state of the art, data description. Or transform your excerpts for a chapter into a coherent text.
 *** Final overview
+:PROPERTIES:
+:collapsed: true
+:END:
 **** Before writing introduction and conclusion, re-read your text controlling for the structure and the central theme. Make sure you are explicit about relevant notions and give evidence and illustrations for your claims. Control for the consistent use of linguistic conventions and a correct referencing throughout your paper.
 * Writer's block
 :PROPERTIES:
 :heading: true
+:collapsed: true
 :END:
 ** You can avoid or mend it if you follow this:
+:PROPERTIES:
+:collapsed: true
+:END:
 *** 1. Start writing as early as possible
 *** 2. Do not compare your own product to those of experienced writers
 *** 3. Know your writing type
@@ -78,6 +106,7 @@
 * Style and Readability
 :PROPERTIES:
 :heading: true
+:collapsed: true
 :END:
 ** Be concrete! Explain! Do not presuppose too much knowledge on the part of your reader. You are the expert.
 ** Aim for a neutral - scientific - academic style
@@ -93,14 +122,25 @@
 * Tools
 :PROPERTIES:
 :heading: true
+:collapsed: true
 :END:
 ** dictionaries
+:PROPERTIES:
+:collapsed: true
+:END:
 *** [[https://www.linguee.de/][linguee]]
 *** [[https://www.dict.cc/][dict]]
 ** thesaurus
+:PROPERTIES:
+:collapsed: true
+:END:
 *** https://www.thesaurus.com/
 ** collocations
+:PROPERTIES:
+:END:
 *** https://ozdic.com/
 ** spelling and grammar checking
+:PROPERTIES:
+:END:
 *** https://languagetool.org/de
 *** https://www.grammarly.com/
