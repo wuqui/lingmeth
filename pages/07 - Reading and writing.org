@@ -1,2 +1,5 @@
 * [[reading]]
+:PROPERTIES:
+:collapsed: true
+:END:
 * [[writing]]

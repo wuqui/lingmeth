@@ -117,13 +117,19 @@ Please quickly introduce yourself.
 :heading: true
 :id: 62d914e7-03bb-4754-95dd-77a3bf04f5ae
 :END:
-** | Date             |  Time |
+** Dates
+
+| Date             |  Time |
 |------------------+-------|
 | [2022-08-08 Mon] | 09:00 |
 | [2022-08-09 Tue] | 14:00 |
 | [2022-08-17 Wed] | 09:00 |
 | [2022-08-18 Thu] | 14:00 |
-** Please send me an email beforehand to register.
+** Please send me an *email* beforehand to register.
+** We will meet in the following *Zoom room*:
+*** URL :: https://lmu-munich.zoom.us/j/5385530182?pwd=SE5iZDJGQlZ1V3dpN2Q4NW45WjF5Zz09
+*** ID :: 538 553 0182
+*** Password :: 531379
 * Requirements
 :PROPERTIES:
 :heading: true
