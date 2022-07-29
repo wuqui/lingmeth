@@ -10,4 +10,5 @@
 ** pivot tables are very powerful for analysing your data
 ** pivot charts give you ready visualisations of the data you analyse in a pivot table
 * example used in the course
-** [[../assets/example-analysis-coca_1659090863621_0.xlsx][example-analysis-coca.xlsx]]
+** [[../assets/image_1659092099399_0.png]]
+** [[../assets/image_1659092123412_0.png]]
